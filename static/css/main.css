@@ -1,0 +1,12 @@
+/* ══════════════════════════════════════════
+   SARAL NITI — Main Stylesheet
+   This file imports all modular CSS files.
+   HTML only needs to link THIS file.
+   ══════════════════════════════════════════ */
+@import url('base.css');
+@import url('navbar.css');
+@import url('hero.css');
+@import url('schemes.css');
+@import url('modals.css');
+@import url('footer.css');
+@import url('dark-mode.css');

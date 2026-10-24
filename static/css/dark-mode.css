@@ -1,0 +1,136 @@
+/* ══════════════════════════════════════════
+   DARK MODE — All dark mode color overrides
+   ══════════════════════════════════════════ */
+html.dark-mode .dark-toggle {
+  background: #2a2a3e;
+}
+
+html.dark-mode .dark-toggle i {
+  color: #f5c518;
+}
+
+html.dark-mode .toggle-switch {
+  background: #1a6ef5;
+}
+
+html.dark-mode .toggle-ball {
+  left: 19px;
+}
+html.dark-mode body {
+  background: #0f0f1a;
+  color: #e0e0e0;
+}
+
+html.dark-mode .scheme-card {
+  background: #1e1e30;
+  border-color: #3a3a5a;
+  color: #e0e0e0;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.2);
+}
+
+html.dark-mode .card-title {
+  color: #ffffff;
+}
+
+html.dark-mode .card-desc {
+  color: #b0b0c0;
+}
+
+html.dark-mode .card-benefit {
+  color: #a0a0b0;
+}
+
+html.dark-mode .ministry-name {
+  color: #9090a0;
+}
+
+html.dark-mode .section-title {
+  color: #ffffff;
+}
+
+html.dark-mode .section-sub {
+  color: #b0b0c0;
+}
+
+html.dark-mode .results-count {
+  color: #b0b0c0;
+}
+
+html.dark-mode .filter-btn {
+  background: #2a2a3e;
+  color: #e0e0e0;
+  border-color: #444;
+}
+
+html.dark-mode .filter-btn.active {
+  background: #1a6ef5;
+  color: #ffffff;
+}
+
+html.dark-mode .search-bar input {
+  background: #1a1a2e;
+  color: #e0e0e0;
+  border-color: #4a4a6a;
+  box-shadow: 0 0 0 2px rgba(26, 110, 245, 0.2);
+}
+
+html.dark-mode .search-bar {
+  background: #1a1a2e;
+  border: 1px solid #4a4a6a;
+  border-radius: 12px;
+}
+
+html.dark-mode .search-btn {
+  background: #1a6ef5;
+  color: #ffffff;
+}
+
+html.dark-mode .footer-wrap {
+  background: #1a1a2e;
+  color: #b0b0c0;
+}
+
+html.dark-mode .hero h1 {
+  color: #ffffff;
+}
+
+html.dark-mode .hero p {
+  color: #b0b0c0;
+}
+
+html.dark-mode .stat-num {
+  color: #ffffff;
+}
+
+html.dark-mode .stat-label {
+  color: #b0b0c0;
+}
+
+html.dark-mode .cat-rural {
+  background: #064e3b;
+  color: #6ee7b7;
+}
+
+html.dark-mode .tag-rural {
+  background: #064e3b;
+  color: #a7f3d0;
+  border-color: #047857;
+}
+
+html.dark-mode .tag-rural-modal {
+  background: #064e3b;
+  color: #a7f3d0;
+  border-color: #047857;
+}
+
+html.dark-mode .card-tag {
+  background: #252538;
+  color: #b0b0c8;
+  border-color: #3e3e58;
+}
+
+html.dark-mode .card-tag.card-tag-rural {
+  background: #064e3b;
+  color: #a7f3d0;
+  border-color: #047857;
+}

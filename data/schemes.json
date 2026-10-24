@@ -1,0 +1,4695 @@
+[
+  {
+    "title": "PM Kisan Samman Nidhi",
+    "title_hi": "पीएम किसान सम्मान निधि",
+    "slug": "pm-kisan-samman-nidhi",
+    "description": "Provides income support of Rs.6000 per year to small and marginal farmer families across India in three equal installments.",
+    "description_hi": "देश भर के लघु और सीमांत किसान परिवारों को प्रति वर्ष ₹6,000 की वित्तीय सहायता तीन समान किस्तों में प्रदान की जाती है।",
+    "category": "agriculture",
+    "tags": [
+      "farmer",
+      "rural",
+      "income support",
+      "cash transfer",
+      "rural area"
+    ],
+    "tags_hi": [
+      "किसान",
+      "ग्रामीण",
+      "आय सहायता",
+      "डीबीटी",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "farmer"
+      ],
+      "state": "all"
+    },
+    "benefits": "Rs.6000 per year in 3 installments of Rs.2000",
+    "benefits_hi": "₹2,000 की 3 समान किस्तों में प्रति वर्ष ₹6,000 सीधे बैंक खाते में",
+    "application_url": "https://pmkisan.gov.in",
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "ministry_hi": "कृषि एवं किसान कल्याण मंत्रालय",
+    "launched_year": 2019,
+    "is_active": true
+  },
+  {
+    "title": "PM Awas Yojana Urban",
+    "title_hi": "प्रधानमंत्री आवास योजना (शहरी)",
+    "slug": "pm-awas-yojana-urban",
+    "description": "Affordable housing for urban poor through credit-linked subsidy on home loans.",
+    "description_hi": "शहरी गरीबों और मध्यम आय वर्ग को होम लोन पर क्रेडिट-लिंक्ड ब्याज सब्सिडी के माध्यम से पक्के मकान उपलब्ध कराना।",
+    "category": "housing",
+    "tags": [
+      "housing",
+      "urban",
+      "home loan",
+      "subsidy"
+    ],
+    "tags_hi": [
+      "आवास",
+      "शहरी",
+      "होम लोन",
+      "सब्सिडी",
+      "मकान"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": 1800000,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Interest subsidy up to Rs.2.67 lakh on home loans",
+    "benefits_hi": "होम लोन पर ₹2.67 लाख तक की ब्याज सब्सिडी",
+    "application_url": "https://pmaymis.gov.in",
+    "ministry": "Ministry of Housing & Urban Affairs",
+    "ministry_hi": "आवासन और शहरी कार्य मंत्रालय",
+    "launched_year": 2015,
+    "is_active": true
+  },
+  {
+    "title": "Beti Bachao Beti Padhao",
+    "title_hi": "बेटी बचाओ बेटी पढ़ाओ",
+    "slug": "beti-bachao-beti-padhao",
+    "description": "Scheme to address declining child sex ratio and promote welfare and education of the girl child.",
+    "description_hi": "बाल लिंगानुपात में सुधार लाने और बालिकाओं की शिक्षा, सुरक्षा तथा सर्वांगीण कल्याण को बढ़ावा देने की राष्ट्रीय योजना।",
+    "category": "women",
+    "tags": [
+      "girl child",
+      "education",
+      "women",
+      "empowerment"
+    ],
+    "tags_hi": [
+      "बालिका",
+      "शिक्षा",
+      "महिला कल्याण",
+      "सशक्तिकरण"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": 10,
+      "gender": "female",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Financial incentives, scholarship support, awareness programs",
+    "benefits_hi": "वित्तीय प्रोत्साहन, छात्रवृत्ति सहायता और जागरूकता कार्यक्रम",
+    "application_url": "https://wcd.nic.in",
+    "ministry": "Ministry of Women & Child Development",
+    "ministry_hi": "महिला एवं बाल विकास मंत्रालय",
+    "launched_year": 2015,
+    "is_active": true
+  },
+  {
+    "title": "Ayushman Bharat PM-JAY",
+    "title_hi": "आयुष्मान भारत (पीएम-जय)",
+    "slug": "ayushman-bharat-pmjay",
+    "description": "World's largest health insurance scheme providing Rs.5 lakh per family per year for hospitalization.",
+    "description_hi": "विश्व की सबसे बड़ी स्वास्थ्य आश्वासन योजना, जो पात्र परिवारों को द्वितीयक और तृतीयक देखभाल हेतु अस्पताल में ₹5 लाख का कैशलेस उपचार देती है।",
+    "category": "health",
+    "tags": [
+      "health",
+      "insurance",
+      "hospital",
+      "free treatment"
+    ],
+    "tags_hi": [
+      "स्वास्थ्य",
+      "बीमा",
+      "अस्पताल",
+      "मुफ्त इलाज",
+      "गोल्डन कार्ड"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": 100000,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Rs.5 lakh per family per year for hospitalization",
+    "benefits_hi": "प्रति परिवार प्रति वर्ष ₹5 लाख तक का कैशलेस एवं मुफ्त अस्पताल इलाज",
+    "application_url": "https://pmjay.gov.in",
+    "ministry": "Ministry of Health & Family Welfare",
+    "ministry_hi": "स्वास्थ्य एवं परिवार कल्याण मंत्रालय",
+    "launched_year": 2018,
+    "is_active": true
+  },
+  {
+    "title": "PM Mudra Yojana",
+    "title_hi": "प्रधानमंत्री मुद्रा योजना",
+    "slug": "pm-mudra-yojana",
+    "description": "Provides loans up to Rs.10 lakh to non-corporate, non-farm small and micro enterprises.",
+    "description_hi": "गैर-कॉर्पोरेट और गैर-कृषि लघु एवं सूक्ष्म उद्यमों को व्यवसाय शुरू करने या विस्तार के लिए ₹10 लाख तक का कोलेटरल-फ्री लोन।",
+    "category": "employment",
+    "tags": [
+      "loan",
+      "business",
+      "self employment",
+      "micro enterprise",
+      "startup"
+    ],
+    "tags_hi": [
+      "ऋण",
+      "व्यवसाय",
+      "स्वरोजगार",
+      "सूक्ष्म उद्यम",
+      "स्टार्टअप"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "business",
+        "self-employed"
+      ],
+      "state": "all"
+    },
+    "benefits": "Collateral-free loans: Shishu up to Rs.50k, Kishor up to Rs.5L, Tarun up to Rs.10L",
+    "benefits_hi": "बिना गारंटी ऋण: शिशु (₹50 हजार तक), किशोर (₹5 लाख तक), तरुण (₹10 लाख तक)",
+    "application_url": "https://mudra.org.in",
+    "ministry": "Ministry of Finance",
+    "ministry_hi": "वित्त मंत्रालय",
+    "launched_year": 2015,
+    "is_active": true
+  },
+  {
+    "title": "National Scholarship Portal",
+    "title_hi": "राष्ट्रीय छात्रवृत्ति पोर्टल (NSP)",
+    "slug": "national-scholarship-portal",
+    "description": "Single-window portal for students to apply for various central and state government scholarships.",
+    "description_hi": "छात्रों के लिए केंद्र और राज्य सरकारों की विभिन्न प्री-मैट्रिक और पोस्ट-मैट्रिक छात्रवृत्तियों हेतु एकल खिड़की ऑनलाइन पोर्टल।",
+    "category": "education",
+    "tags": [
+      "scholarship",
+      "student",
+      "education",
+      "minority",
+      "merit"
+    ],
+    "tags_hi": [
+      "छात्रवृत्ति",
+      "छात्र",
+      "शिक्षा",
+      "अल्पसंख्यक",
+      "मेधावी"
+    ],
+    "eligibility": {
+      "min_age": 6,
+      "max_age": 30,
+      "gender": "all",
+      "income_limit": 250000,
+      "caste": [
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "occupation": [
+        "student"
+      ],
+      "state": "all"
+    },
+    "benefits": "Scholarships ranging from Rs.1000 to Rs.20000 per year",
+    "benefits_hi": "प्रति वर्ष ₹1,000 से ₹20,000 तक की प्रत्यक्ष छात्रवृत्ति सहायता",
+    "application_url": "https://scholarships.gov.in",
+    "ministry": "Ministry of Education",
+    "ministry_hi": "शिक्षा मंत्रालय",
+    "launched_year": 2015,
+    "is_active": true
+  },
+  {
+    "title": "Sukanya Samriddhi Yojana",
+    "title_hi": "सुकन्या समृद्धि योजना",
+    "slug": "sukanya-samriddhi-yojana",
+    "description": "Small savings scheme for girl child providing high interest rate and tax benefits.",
+    "description_hi": "बालिकाओं के सुरक्षित भविष्य और उच्च शिक्षा के लिए उच्च ब्याज दर एवं धारा 80C के तहत पूर्ण आयकर छूट प्रदान करने वाली बचत योजना।",
+    "category": "women",
+    "tags": [
+      "girl child",
+      "savings",
+      "investment",
+      "tax benefit"
+    ],
+    "tags_hi": [
+      "बालिका",
+      "बचत",
+      "निवेश",
+      "टैक्स छूट",
+      "बेटी"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": 10,
+      "gender": "female",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "8.2% interest rate per year, tax exemption under Section 80C",
+    "benefits_hi": "8.2% वार्षिक ब्याज दर एवं आयकर की धारा 80C के तहत पूर्ण टैक्स छूट",
+    "application_url": "https://www.indiapost.gov.in",
+    "ministry": "Ministry of Finance",
+    "ministry_hi": "वित्त मंत्रालय",
+    "launched_year": 2015,
+    "is_active": true
+  },
+  {
+    "title": "Atal Pension Yojana",
+    "title_hi": "अटल पेंशन योजना",
+    "slug": "atal-pension-yojana",
+    "description": "Guaranteed pension scheme for workers in the unorganized sector.",
+    "description_hi": "असंगठित क्षेत्र के कामगारों के लिए 60 वर्ष की आयु के बाद निश्चित मासिक पेंशन प्रदान करने वाली सामाजिक सुरक्षा योजना।",
+    "category": "elderly",
+    "tags": [
+      "pension",
+      "retirement",
+      "unorganized sector",
+      "old age"
+    ],
+    "tags_hi": [
+      "पेंशन",
+      "सेवानिवृत्ति",
+      "असंगठित क्षेत्र",
+      "वृद्धावस्था"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 40,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "unorganized sector"
+      ],
+      "state": "all"
+    },
+    "benefits": "Guaranteed pension of Rs.1000 to Rs.5000 per month after age 60",
+    "benefits_hi": "60 वर्ष की आयु के बाद ₹1,000 से ₹5,000 प्रति माह की गारंटीड पेंशन",
+    "application_url": "https://npscra.nsdl.co.in",
+    "ministry": "Ministry of Finance",
+    "ministry_hi": "वित्त मंत्रालय",
+    "launched_year": 2015,
+    "is_active": true
+  },
+  {
+    "title": "PM Rozgar Protsahan Yojana",
+    "title_hi": "प्रधानमंत्री रोजगार प्रोत्साहन योजना",
+    "slug": "pm-rozgar-protsahan-yojana",
+    "description": "Government pays full employer EPF contribution for new employees to incentivize job creation.",
+    "description_hi": "नए रोजगार सृजन को बढ़ावा देने हेतु नए कर्मचारियों के ईपीएफ और ईपीएस में नियोक्ता का 12% अंशदान सरकार वहन करती है।",
+    "category": "employment",
+    "tags": [
+      "employment",
+      "job creation",
+      "EPF",
+      "employer",
+      "youth"
+    ],
+    "tags_hi": [
+      "रोजगार",
+      "नौकरी",
+      "ईपीएफ",
+      "नियोक्ता",
+      "युवा"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "employed"
+      ],
+      "state": "all"
+    },
+    "benefits": "Employer's full EPF contribution 12% paid by government for 3 years",
+    "benefits_hi": "सरकार द्वारा 3 वर्षों के लिए नियोक्ता का 12% ईपीएफ अंशदान भुगतान",
+    "application_url": "https://pmrpy.gov.in",
+    "ministry": "Ministry of Labour & Employment",
+    "ministry_hi": "श्रम एवं रोजगार मंत्रालय",
+    "launched_year": 2016,
+    "is_active": true
+  },
+  {
+    "title": "Stand Up India",
+    "title_hi": "स्टैंड अप इंडिया",
+    "slug": "stand-up-india",
+    "description": "Facilitates bank loans between Rs.10 lakh to Rs.1 crore to SC/ST and women entrepreneurs.",
+    "description_hi": "अनुसूचित जाति (SC), अनुसूचित जनजाति (ST) और महिला उद्यमियों को विनिर्माण, सेवा या व्यापार में नए उद्यम स्थापित करने हेतु बैंक ऋण।",
+    "category": "financial",
+    "tags": [
+      "loan",
+      "women",
+      "sc",
+      "st",
+      "entrepreneurship",
+      "business"
+    ],
+    "tags_hi": [
+      "ऋण",
+      "महिला",
+      "एससी",
+      "एसटी",
+      "उद्यमिता",
+      "व्यवसाय"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "entrepreneur",
+        "business"
+      ],
+      "state": "all"
+    },
+    "benefits": "Bank loan from Rs.10 lakh to Rs.1 crore for greenfield enterprises",
+    "benefits_hi": "ग्रीनफील्ड उद्यमों के लिए ₹10 लाख से ₹1 करोड़ तक का बैंक ऋण",
+    "application_url": "https://www.standupmitra.in",
+    "ministry": "Ministry of Finance",
+    "ministry_hi": "वित्त मंत्रालय",
+    "launched_year": 2016,
+    "is_active": true
+  },
+  {
+    "title": "PM Ujjwala Yojana",
+    "title_hi": "प्रधानमंत्री उज्ज्वला योजना",
+    "slug": "pm-ujjwala-yojana",
+    "description": "Provides free LPG connections to women from below poverty line households to replace unclean cooking fuels.",
+    "description_hi": "गरीबी रेखा से नीचे (BPL) परिवारों की महिलाओं को स्वच्छ रसोई ईंधन उपलब्ध कराने के लिए मुफ्त एलपीजी कनेक्शन।",
+    "category": "women",
+    "tags": [
+      "lpg",
+      "cooking gas",
+      "bpl",
+      "women",
+      "rural",
+      "rural area"
+    ],
+    "tags_hi": [
+      "एलपीजी",
+      "रसोई गैस",
+      "बीपीएल",
+      "महिला",
+      "ग्रामीण",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "female",
+      "income_limit": 100000,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Free LPG connection with first refill and stove",
+    "benefits_hi": "मुफ्त एलपीजी गैस कनेक्शन, पहला भरा हुआ सिलेंडर और चूल्हा निःशुल्क",
+    "application_url": "https://pmuy.gov.in",
+    "ministry": "Ministry of Petroleum & Natural Gas",
+    "ministry_hi": "पेट्रोलियम एवं प्राकृतिक गैस मंत्रालय",
+    "launched_year": 2016,
+    "is_active": true
+  },
+  {
+    "title": "Swachh Bharat Mission",
+    "title_hi": "स्वच्छ भारत मिशन (ग्रामीण/शहरी)",
+    "slug": "swachh-bharat-mission",
+    "description": "Provides financial assistance to rural households for construction of individual household toilets.",
+    "description_hi": "देश को खुले में शौच मुक्त बनाने और स्वच्छता सुनिश्चित करने के लिए व्यक्तिगत घरेलू शौचालय निर्माण हेतु वित्तीय अनुदान।",
+    "category": "housing",
+    "tags": [
+      "toilet",
+      "sanitation",
+      "rural",
+      "hygiene",
+      "rural area"
+    ],
+    "tags_hi": [
+      "शौचालय",
+      "स्वच्छता",
+      "ग्रामीण",
+      "आरोग्य",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Rs.12000 incentive for toilet construction",
+    "benefits_hi": "घरेलू शौचालय निर्माण के लिए ₹12,000 की प्रोत्साहन राशि",
+    "application_url": "https://swachhbharatmission.gov.in",
+    "ministry": "Ministry of Jal Shakti",
+    "ministry_hi": "जल शक्ति मंत्रालय",
+    "launched_year": 2014,
+    "is_active": true
+  },
+  {
+    "title": "Pradhan Mantri Fasal Bima Yojana",
+    "title_hi": "प्रधानमंत्री फसल बीमा योजना",
+    "slug": "pradhan-mantri-fasal-bima-yojana",
+    "description": "Crop insurance scheme providing financial support to farmers suffering crop loss due to natural calamities.",
+    "description_hi": "प्राकृतिक आपदाओं, ओलावृष्टि, कीटों और बीमारियों से फसल हानि की स्थिति में किसानों को व्यापक वित्तीय सहायता व बीमा सुरक्षा।",
+    "category": "agriculture",
+    "tags": [
+      "crop insurance",
+      "farmer",
+      "natural disaster",
+      "agriculture",
+      "rural area"
+    ],
+    "tags_hi": [
+      "फसल बीमा",
+      "किसान",
+      "प्राकृतिक आपदा",
+      "कृषि",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "farmer"
+      ],
+      "state": "all"
+    },
+    "benefits": "Insurance coverage for crop loss due to natural calamities",
+    "benefits_hi": "न्यूनतम प्रीमियम पर बुवाई से कटाई तक फसल नुकसान का पूरा बीमा कवर",
+    "application_url": "https://pmfby.gov.in",
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "ministry_hi": "कृषि एवं किसान कल्याण मंत्रालय",
+    "launched_year": 2016,
+    "is_active": true
+  },
+  {
+    "title": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+    "title_hi": "प्रधानमंत्री जीवन ज्योति बीमा योजना",
+    "slug": "pm-jeevan-jyoti-bima-yojana",
+    "description": "Life insurance scheme offering coverage of Rs.2 lakh at a very low premium of Rs.436 per year.",
+    "description_hi": "किसी भी कारण से मृत्यु होने पर परिवार को वित्तीय सुरक्षा देने वाली मात्र ₹436 प्रति वर्ष के प्रीमियम की जीवन बीमा योजना।",
+    "category": "financial",
+    "tags": [
+      "life insurance",
+      "low premium",
+      "death benefit",
+      "financial security"
+    ],
+    "tags_hi": [
+      "जीवन बीमा",
+      "कम प्रीमियम",
+      "वित्तीय सुरक्षा",
+      "बीमा"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 50,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Rs.2 lakh life cover at Rs.436/year premium",
+    "benefits_hi": "मात्र ₹436/वर्ष प्रीमियम पर ₹2 लाख का जीवन बीमा कवर",
+    "application_url": "https://jansuraksha.gov.in",
+    "ministry": "Ministry of Finance",
+    "ministry_hi": "वित्त मंत्रालय",
+    "launched_year": 2015,
+    "is_active": true
+  },
+  {
+    "title": "Pradhan Mantri Suraksha Bima Yojana",
+    "title_hi": "प्रधानमंत्री सुरक्षा बीमा योजना",
+    "slug": "pm-suraksha-bima-yojana",
+    "description": "Accident insurance scheme providing coverage for accidental death and disability at just Rs.20 per year.",
+    "description_hi": "दुर्घटना के कारण मृत्यु या स्थायी विकलांगता पर मात्र ₹20 वार्षिक प्रीमियम पर ₹2 लाख का दुर्घटना बीमा कवर।",
+    "category": "financial",
+    "tags": [
+      "accident insurance",
+      "disability",
+      "low premium",
+      "financial security"
+    ],
+    "tags_hi": [
+      "दुर्घटना बीमा",
+      "विकलांगता",
+      "कम प्रीमियम",
+      "वित्तीय सुरक्षा"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 70,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Rs.2 lakh accidental death cover at Rs.20/year",
+    "benefits_hi": "मात्र ₹20 प्रति वर्ष में ₹2 लाख का आकस्मिक मृत्यु व विकलांगता बीमा",
+    "application_url": "https://jansuraksha.gov.in",
+    "ministry": "Ministry of Finance",
+    "ministry_hi": "वित्त मंत्रालय",
+    "launched_year": 2015,
+    "is_active": true
+  },
+  {
+    "title": "National Rural Employment Guarantee Act",
+    "title_hi": "महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारंटी (मनरेगा)",
+    "slug": "mgnrega",
+    "description": "Guarantees 100 days of wage employment per year to rural households whose adult members volunteer to do unskilled manual work.",
+    "description_hi": "ग्रामीण परिवारों के वयस्क सदस्यों को प्रत्येक वित्तीय वर्ष में कम से कम 100 दिनों के अकुशल शारीरिक रोजगार की कानूनी गारंटी।",
+    "category": "employment",
+    "tags": [
+      "rural employment",
+      "wages",
+      "manual work",
+      "100 days",
+      "job guarantee",
+      "rural area"
+    ],
+    "tags_hi": [
+      "ग्रामीण रोजगार",
+      "मजदूरी",
+      "100 दिन",
+      "रोजगार गारंटी",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "100 days guaranteed wage employment per year",
+    "benefits_hi": "प्रति वर्ष 100 दिनों का गारंटीड मजदूरी रोजगार और समय पर बैंक खाते में भुगतान",
+    "application_url": "https://nrega.nic.in",
+    "ministry": "Ministry of Rural Development",
+    "ministry_hi": "ग्रामीण विकास मंत्रालय",
+    "launched_year": 2005,
+    "is_active": true
+  },
+  {
+    "title": "Pradhan Mantri Kaushal Vikas Yojana",
+    "title_hi": "प्रधानमंत्री कौशल विकास योजना",
+    "slug": "pm-kaushal-vikas-yojana",
+    "description": "Skill development scheme enabling youth to take industry-relevant skill training and get certified.",
+    "description_hi": "देश के युवाओं को उद्योग-आधारित निःशुल्क कौशल प्रशिक्षण और राष्ट्रीय स्तर का प्रमाण-पत्र देकर रोजगार योग्य बनाना।",
+    "category": "youth",
+    "tags": [
+      "skill training",
+      "youth",
+      "certification",
+      "employment",
+      "vocational"
+    ],
+    "tags_hi": [
+      "कौशल प्रशिक्षण",
+      "युवा",
+      "प्रमाणपत्र",
+      "रोजगार",
+      "व्यावसायिक"
+    ],
+    "eligibility": {
+      "min_age": 15,
+      "max_age": 45,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Free skill training and certification with monetary reward",
+    "benefits_hi": "मुफ्त कौशल प्रशिक्षण, सरकारी प्रमाणपत्र और मौद्रिक पुरस्कार सहायता",
+    "application_url": "https://pmkvyofficial.org",
+    "ministry": "Ministry of Skill Development & Entrepreneurship",
+    "ministry_hi": "कौशल विकास एवं उद्यमिता मंत्रालय",
+    "launched_year": 2015,
+    "is_active": true
+  },
+  {
+    "title": "Digital India Programme",
+    "title_hi": "डिजिटल इंडिया कार्यक्रम",
+    "slug": "digital-india-programme",
+    "description": "Flagship programme to transform India into a digitally empowered society and knowledge economy.",
+    "description_hi": "भारत को डिजिटल रूप से सशक्त समाज और ज्ञान अर्थव्यवस्था में बदलने हेतु सरकारी सेवाओं को इलेक्ट्रॉनिक रूप से नागरिकों तक पहुंचाना।",
+    "category": "youth",
+    "tags": [
+      "digital",
+      "internet",
+      "technology",
+      "e-governance",
+      "connectivity"
+    ],
+    "tags_hi": [
+      "डिजिटल",
+      "इंटरनेट",
+      "प्रौद्योगिकी",
+      "ई-गवर्नेंस",
+      "कनेक्टिविटी"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Digital infrastructure, digital literacy and digital services",
+    "benefits_hi": "डिजिटल बुनियादी ढांचा, डिजिटल साक्षरता और सभी सरकारी सेवाओं की ऑनलाइन उपलब्धता",
+    "application_url": "https://digitalindia.gov.in",
+    "ministry": "Ministry of Electronics & IT",
+    "ministry_hi": "इलेक्ट्रॉनिक्स एवं सूचना प्रौद्योगिकी मंत्रालय",
+    "launched_year": 2015,
+    "is_active": true
+  },
+  {
+    "title": "Soil Health Card Scheme",
+    "title_hi": "मृदा स्वास्थ्य कार्ड योजना",
+    "slug": "soil-health-card-scheme",
+    "description": "Provides soil health cards to farmers with crop-wise recommendations of nutrients and fertilizers.",
+    "description_hi": "किसानों के खेत की मिट्टी की जांच कर 12 पोषक तत्वों की स्थिति और फसल-वार उर्वरक उपयोग की वैज्ञानिक सलाह देना।",
+    "category": "agriculture",
+    "tags": [
+      "soil",
+      "farmer",
+      "fertilizer",
+      "crop",
+      "agriculture",
+      "rural area"
+    ],
+    "tags_hi": [
+      "मिट्टी",
+      "किसान",
+      "उर्वरक",
+      "फसल",
+      "कृषि",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "farmer"
+      ],
+      "state": "all"
+    },
+    "benefits": "Free soil testing and crop-wise fertilizer recommendations",
+    "benefits_hi": "निःशुल्क मिट्टी परीक्षण और फसल-वार सटीक उर्वरक उपयोग कार्ड",
+    "application_url": "https://soilhealth.dac.gov.in",
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "ministry_hi": "कृषि एवं किसान कल्याण मंत्रालय",
+    "launched_year": 2015,
+    "is_active": true
+  },
+  {
+    "title": "Pradhan Mantri Gram Sadak Yojana",
+    "title_hi": "प्रधानमंत्री ग्राम सड़क योजना",
+    "slug": "pm-gram-sadak-yojana",
+    "description": "Provides all-weather road connectivity to unconnected rural habitations across India.",
+    "description_hi": "देश के असंबद्ध ग्रामीण क्षेत्रों को हर मौसम में चालू रहने वाली गुणवत्तापूर्ण पक्की सड़कों के नेटवर्क से जोड़ना।",
+    "category": "employment",
+    "tags": [
+      "rural road",
+      "connectivity",
+      "infrastructure",
+      "village",
+      "rural area"
+    ],
+    "tags_hi": [
+      "ग्रामीण सड़क",
+      "कनेक्टिविटी",
+      "बुनियादी ढांचा",
+      "गांव",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "All-weather road connectivity to rural areas",
+    "benefits_hi": "ग्रामीण बस्तियों को बारहमासी पक्की सड़क कनेक्टिविटी",
+    "application_url": "https://pmgsy.nic.in",
+    "ministry": "Ministry of Rural Development",
+    "ministry_hi": "ग्रामीण विकास मंत्रालय",
+    "launched_year": 2000,
+    "is_active": true
+  },
+  {
+    "title": "Sarva Shiksha Abhiyan",
+    "title_hi": "सर्व शिक्षा अभियान (समग्र शिक्षा)",
+    "slug": "sarva-shiksha-abhiyan",
+    "description": "Universal elementary education programme to provide quality education to children aged 6-14 years.",
+    "description_hi": "6 से 14 वर्ष के सभी बच्चों को निःशुल्क एवं अनिवार्य प्रारंभिक शिक्षा और स्कूलों में गुणवत्तापूर्ण शिक्षा सुविधाएं देना।",
+    "category": "education",
+    "tags": [
+      "elementary education",
+      "children",
+      "school",
+      "free education"
+    ],
+    "tags_hi": [
+      "प्राथमिक शिक्षा",
+      "बच्चे",
+      "स्कूल",
+      "मुफ्त शिक्षा"
+    ],
+    "eligibility": {
+      "min_age": 6,
+      "max_age": 14,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "student"
+      ],
+      "state": "all"
+    },
+    "benefits": "Free and compulsory elementary education",
+    "benefits_hi": "निःशुल्क प्रारंभिक शिक्षा, पाठ्यपुस्तकें, यूनिफॉर्म और स्कूल सुविधाएं",
+    "application_url": "https://samagra.education.gov.in",
+    "ministry": "Ministry of Education",
+    "ministry_hi": "शिक्षा मंत्रालय",
+    "launched_year": 2001,
+    "is_active": true
+  },
+  {
+    "title": "Mid Day Meal Scheme",
+    "title_hi": "पीएम पोषण (मिड डे मील योजना)",
+    "slug": "mid-day-meal-scheme",
+    "description": "Provides free lunch to school children to improve nutritional status and boost school attendance.",
+    "description_hi": "सरकारी और सहायता प्राप्त प्राथमिक विद्यालयों के बच्चों को पौष्टिक दोपहर का गर्म भोजन देकर पोषण व उपस्थिति सुधारना।",
+    "category": "education",
+    "tags": [
+      "school meal",
+      "nutrition",
+      "children",
+      "free food",
+      "attendance"
+    ],
+    "tags_hi": [
+      "दोपहर का भोजन",
+      "पोषण",
+      "बच्चे",
+      "मुफ्त भोजन",
+      "स्कूल उपस्थिति"
+    ],
+    "eligibility": {
+      "min_age": 6,
+      "max_age": 14,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "student"
+      ],
+      "state": "all"
+    },
+    "benefits": "Free nutritious mid-day meal in government schools",
+    "benefits_hi": "स्कूलों में प्रतिदिन मुफ्त पौष्टिक एवं स्वच्छ दोपहर का भोजन",
+    "application_url": "https://mdm.nic.in",
+    "ministry": "Ministry of Education",
+    "ministry_hi": "शिक्षा मंत्रालय",
+    "launched_year": 1995,
+    "is_active": true
+  },
+  {
+    "title": "Pradhan Mantri Matru Vandana Yojana",
+    "title_hi": "प्रधानमंत्री मातृ वंदना योजना",
+    "slug": "pm-matru-vandana-yojana",
+    "description": "Maternity benefit programme providing cash incentives to pregnant and lactating women for first live birth.",
+    "description_hi": "गर्भवती महिलाओं और स्तनपान कराने वाली माताओं को पहले जीवित बच्चे के जन्म पर पोषण व स्वास्थ्य हेतु प्रत्यक्ष नकद सहायता।",
+    "category": "women",
+    "tags": [
+      "maternity",
+      "pregnant",
+      "cash benefit",
+      "mother",
+      "newborn"
+    ],
+    "tags_hi": [
+      "मातृत्व",
+      "गर्भवती",
+      "नकद सहायता",
+      "माता",
+      "नवजात"
+    ],
+    "eligibility": {
+      "min_age": 19,
+      "max_age": null,
+      "gender": "female",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Rs.5000 cash incentive for first live birth in 3 installments",
+    "benefits_hi": "पहले जीवित बच्चे के लिए ₹5,000 की नकद प्रोत्साहन राशि सीधे खाते में",
+    "application_url": "https://pmmvy.wcd.gov.in",
+    "ministry": "Ministry of Women & Child Development",
+    "ministry_hi": "महिला एवं बाल विकास मंत्रालय",
+    "launched_year": 2017,
+    "is_active": true
+  },
+  {
+    "title": "Indira Gandhi National Old Age Pension",
+    "title_hi": "इंदिरा गांधी राष्ट्रीय वृद्धावस्था पेंशन",
+    "slug": "indira-gandhi-national-old-age-pension",
+    "description": "Provides monthly pension to destitute elderly persons aged 60 years and above from below poverty line.",
+    "description_hi": "गरीबी रेखा से नीचे (BPL) जीवन यापन करने वाले 60 वर्ष या उससे अधिक आयु के बुजुर्गों को नियमित मासिक पेंशन।",
+    "category": "elderly",
+    "tags": [
+      "pension",
+      "old age",
+      "bpl",
+      "elderly",
+      "monthly income"
+    ],
+    "tags_hi": [
+      "पेंशन",
+      "वृद्धावस्था",
+      "बीपीएल",
+      "बुजुर्ग",
+      "मासिक आय"
+    ],
+    "eligibility": {
+      "min_age": 60,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": 100000,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Rs.200-500 per month pension for BPL elderly",
+    "benefits_hi": "बीपीएल वरिष्ठ नागरिकों को ₹200 से ₹500 प्रति माह नियमित पेंशन",
+    "application_url": "https://nsap.nic.in",
+    "ministry": "Ministry of Rural Development",
+    "ministry_hi": "ग्रामीण विकास मंत्रालय",
+    "launched_year": 1995,
+    "is_active": true
+  },
+  {
+    "title": "Rashtriya Vayoshri Yojana",
+    "title_hi": "राष्ट्रीय वयोश्री योजना",
+    "slug": "rashtriya-vayoshri-yojana",
+    "description": "Provides assisted living devices like walking sticks, wheelchairs and hearing aids to senior citizens.",
+    "description_hi": "गरीबी रेखा से नीचे के वरिष्ठ नागरिकों को आयु-संबंधी शारीरिक अक्षमताओं से निपटने हेतु जरूरी सहायक उपकरण मुफ्त देना।",
+    "category": "elderly",
+    "tags": [
+      "elderly",
+      "disability aids",
+      "wheelchair",
+      "hearing aid",
+      "senior citizen"
+    ],
+    "tags_hi": [
+      "बुजुर्ग",
+      "सहायक उपकरण",
+      "व्हीलचेयर",
+      "श्रवण यंत्र",
+      "वरिष्ठ नागरिक"
+    ],
+    "eligibility": {
+      "min_age": 60,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": 200000,
+      "caste": [
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Free assisted living devices like wheelchairs and hearing aids",
+    "benefits_hi": "मुफ्त व्हीलचेयर, सुनने की मशीन, वॉकिंग स्टिक, चश्मा और कृत्रिम अंग",
+    "application_url": "https://www.alimco.in",
+    "ministry": "Ministry of Social Justice & Empowerment",
+    "ministry_hi": "सामाजिक न्याय एवं अधिकारिता मंत्रालय",
+    "launched_year": 2017,
+    "is_active": true
+  },
+  {
+    "title": "PM SVANidhi Scheme",
+    "title_hi": "पीएम स्वनिधि योजना",
+    "slug": "pm-svanidhi-scheme",
+    "description": "Micro credit scheme providing affordable loans to street vendors to resume their livelihoods after COVID-19.",
+    "description_hi": "शहरी एवं ग्रामीण पथ विक्रेताओं (स्ट्रीट वेंडरों) को व्यवसाय संचालन हेतु आसान व किफायती कार्यशील पूंजी ऋण।",
+    "category": "employment",
+    "tags": [
+      "street vendor",
+      "micro loan",
+      "covid relief",
+      "self employment"
+    ],
+    "tags_hi": [
+      "रेहड़ी-पटरी",
+      "सूक्ष्म ऋण",
+      "स्वरोजगार",
+      "स्ट्रीट वेंडर"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "street vendor"
+      ],
+      "state": "all"
+    },
+    "benefits": "Collateral free working capital loan of Rs.10000 to Rs.50000",
+    "benefits_hi": "बिना किसी गारंटी के ₹10,000 से ₹50,000 तक का कार्यशील पूंजी ऋण एवं ब्याज सब्सिडी",
+    "application_url": "https://pmsvanidhi.mohua.gov.in",
+    "ministry": "Ministry of Housing & Urban Affairs",
+    "ministry_hi": "आवासन और शहरी कार्य मंत्रालय",
+    "launched_year": 2020,
+    "is_active": true
+  },
+  {
+    "title": "Startup India",
+    "title_hi": "स्टार्टअप इंडिया",
+    "slug": "startup-india",
+    "description": "Government initiative to build a strong ecosystem for nurturing innovation and startups in India.",
+    "description_hi": "भारत में नवाचार, उद्यमिता और नए स्टार्टअप्स के पोषण हेतु कर छूट, सरल पेटेंट प्रक्रिया और सीड फंडिंग सहायता।",
+    "category": "youth",
+    "tags": [
+      "startup",
+      "entrepreneur",
+      "innovation",
+      "funding",
+      "tax benefit"
+    ],
+    "tags_hi": [
+      "स्टार्टअप",
+      "उद्यमी",
+      "नवाचार",
+      "फंडिंग",
+      "टैक्स छूट"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "entrepreneur"
+      ],
+      "state": "all"
+    },
+    "benefits": "Tax exemption, funding support and simplified regulations for startups",
+    "benefits_hi": "3 साल की टैक्स छूट, सरकारी फंड ऑफ फंड्स से पूंजी और आसान नियामक अनुपालन",
+    "application_url": "https://startupindia.gov.in",
+    "ministry": "Ministry of Commerce & Industry",
+    "ministry_hi": "वाणिज्य एवं उद्योग मंत्रालय",
+    "launched_year": 2016,
+    "is_active": true
+  },
+  {
+    "title": "Pradhan Mantri Jan Dhan Yojana",
+    "title_hi": "प्रधानमंत्री जन धन योजना",
+    "slug": "pm-jan-dhan-yojana",
+    "description": "Financial inclusion programme ensuring access to financial services like banking, savings, credit and insurance.",
+    "description_hi": "प्रत्येक असंबद्ध परिवार के लिए बिना किसी न्यूनतम शेष के जीरो बैलेंस बैंक खाता और सार्वभौमिक बैंकिंग सुविधाएं।",
+    "category": "financial",
+    "tags": [
+      "bank account",
+      "financial inclusion",
+      "zero balance",
+      "insurance",
+      "overdraft"
+    ],
+    "tags_hi": [
+      "बैंक खाता",
+      "वित्तीय समावेशन",
+      "जीरो बैलेंस",
+      "बीमा",
+      "ओवरड्राफ्ट"
+    ],
+    "eligibility": {
+      "min_age": 10,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Zero balance bank account with Rs.2 lakh accident insurance and overdraft facility",
+    "benefits_hi": "जीरो बैलेंस खाता, ₹2 लाख का मुफ्त दुर्घटना बीमा, रूपे डेबिट कार्ड और ₹10,000 तक ओवरड्राफ्ट",
+    "application_url": "https://pmjdy.gov.in",
+    "ministry": "Ministry of Finance",
+    "ministry_hi": "वित्त मंत्रालय",
+    "launched_year": 2014,
+    "is_active": true
+  },
+  {
+    "title": "Disability Pension Scheme",
+    "title_hi": "राष्ट्रीय दिव्यांग पेंशन योजना",
+    "slug": "disability-pension-scheme",
+    "description": "Monthly financial assistance to persons with disabilities from below poverty line households.",
+    "description_hi": "गरीबी रेखा से नीचे के 80% या उससे अधिक गंभीर विकलांगता वाले व्यक्तियों को वित्तीय संबल हेतु मासिक पेंशन।",
+    "category": "disability",
+    "tags": [
+      "disability",
+      "pension",
+      "bpl",
+      "monthly income",
+      "specially abled"
+    ],
+    "tags_hi": [
+      "दिव्यांग",
+      "पेंशन",
+      "बीपीएल",
+      "मासिक सहायता",
+      "विशेष आवश्यकता"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": 100000,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Rs.300-500 per month pension for disabled BPL persons",
+    "benefits_hi": "दिव्यांग बीपीएल व्यक्तियों को ₹300 से ₹500 प्रति माह नियमित पेंशन",
+    "application_url": "https://nsap.nic.in",
+    "ministry": "Ministry of Social Justice & Empowerment",
+    "ministry_hi": "सामाजिक न्याय एवं अधिकारिता मंत्रालय",
+    "launched_year": 2009,
+    "is_active": true
+  },
+  {
+    "title": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana",
+    "title_hi": "दीनदयाल उपाध्याय ग्रामीण कौशल्या योजना",
+    "slug": "ddu-grameen-kaushalya-yojana",
+    "description": "Skill and placement programme for rural youth to provide sustainable employment opportunities.",
+    "description_hi": "ग्रामीण निर्धन परिवारों के युवाओं को बाजार मांग के अनुसार हुनरमंद बनाकर निजी क्षेत्र में नियमित रोजगार दिलाना।",
+    "category": "youth",
+    "tags": [
+      "rural youth",
+      "skill training",
+      "placement",
+      "employment",
+      "vocational",
+      "rural area"
+    ],
+    "tags_hi": [
+      "ग्रामीण युवा",
+      "कौशल प्रशिक्षण",
+      "रोजगार",
+      "प्लेसमेंट",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 15,
+      "max_age": 35,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Free skill training with guaranteed placement assistance",
+    "benefits_hi": "निःशुल्क आवासीय कौशल प्रशिक्षण, ड्रेस, भोजन और कम से कम 70% गारंटीड प्लेसमेंट",
+    "application_url": "https://ddugky.gov.in",
+    "ministry": "Ministry of Rural Development",
+    "ministry_hi": "ग्रामीण विकास मंत्रालय",
+    "launched_year": 2014,
+    "is_active": true
+  },
+  {
+    "title": "PM Vishwakarma Yojana",
+    "title_hi": "पीएम विश्वकर्मा योजना",
+    "slug": "pm-vishwakarma-yojana",
+    "description": "Support scheme for traditional artisans and craftspeople to upgrade their skills and access credit.",
+    "description_hi": "हाथ और औजारों से काम करने वाले 18 पारंपरिक शिल्पों के कारीगरों को कौशल, टूलकिट और रियायती ब्याज पर ऋण सहायता।",
+    "category": "employment",
+    "tags": [
+      "artisan",
+      "craftsman",
+      "skill",
+      "loan",
+      "traditional work"
+    ],
+    "tags_hi": [
+      "कारीगर",
+      "शिल्पकार",
+      "टूलकिट",
+      "सस्ता ऋण",
+      "पारंपरिक कार्य"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "artisan",
+        "craftsman"
+      ],
+      "state": "all"
+    },
+    "benefits": "Credit up to Rs.3 lakh, skill training and toolkit support",
+    "benefits_hi": "₹3 लाख तक का सस्ता ऋण (5% ब्याज), ₹15,000 टूलकिट अनुदान और ₹500/दिन स्टाइपेंड के साथ प्रशिक्षण",
+    "application_url": "https://pmvishwakarma.gov.in",
+    "ministry": "Ministry of Micro, Small & Medium Enterprises",
+    "ministry_hi": "सूक्ष्म, लघु एवं मध्यम उद्यम मंत्रालय",
+    "launched_year": 2023,
+    "is_active": true
+  },
+  {
+    "title": "Agniveer Scheme",
+    "title_hi": "अग्निवीर योजना (अग्निपथ योजना)",
+    "slug": "agniveer-scheme",
+    "description": "Short term military service scheme for youth to serve in Indian Armed Forces for 4 years.",
+    "description_hi": "भारतीय सेना, नौसेना और वायु सेना में 4 वर्ष की अवधि के लिए युवाओं की भर्ती और राष्ट्र सेवा का अवसर।",
+    "category": "youth",
+    "tags": [
+      "military",
+      "army",
+      "defence",
+      "youth",
+      "job"
+    ],
+    "tags_hi": [
+      "सेना",
+      "रक्षा",
+      "सशस्त्र बल",
+      "युवा",
+      "अग्निपथ"
+    ],
+    "eligibility": {
+      "min_age": 17,
+      "max_age": 23,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Monthly salary Rs.30000-40000 and Rs.11.71 lakh Seva Nidhi after 4 years",
+    "benefits_hi": "मासिक वेतन ₹30,000-₹40,000, ₹48 लाख गैर-अंशदायी जीवन बीमा और 4 वर्ष बाद ₹11.71 लाख सेवा निधि",
+    "application_url": "https://joinindianarmy.nic.in",
+    "ministry": "Ministry of Defence",
+    "ministry_hi": "रक्षा मंत्रालय",
+    "launched_year": 2022,
+    "is_active": true
+  },
+  {
+    "title": "PM Garib Kalyan Anna Yojana",
+    "title_hi": "प्रधानमंत्री गरीब कल्याण अन्न योजना",
+    "slug": "pm-garib-kalyan-anna-yojana",
+    "description": "Free food grain scheme providing 5kg rice or wheat per person per month to poor families.",
+    "description_hi": "राष्ट्रीय खाद्य सुरक्षा अधिनियम (NFSA) के तहत देश के 80 करोड़ से अधिक जरूरतमंद नागरिकों को निःशुल्क खाद्यान्न।",
+    "category": "health",
+    "tags": [
+      "free food",
+      "ration",
+      "poor",
+      "grain",
+      "food security"
+    ],
+    "tags_hi": [
+      "मुफ्त राशन",
+      "खाद्यान्न",
+      "गरीब कल्याण",
+      "राशन",
+      "खाद्य सुरक्षा"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "5kg free food grain per person per month",
+    "benefits_hi": "प्रति व्यक्ति प्रति माह 5 किलोग्राम मुफ्त चावल या गेहूं",
+    "application_url": "https://dfpd.gov.in",
+    "ministry": "Ministry of Consumer Affairs, Food & Public Distribution",
+    "ministry_hi": "उपभोक्ता मामले, खाद्य एवं सार्वजनिक वितरण मंत्रालय",
+    "launched_year": 2020,
+    "is_active": true
+  },
+  {
+    "title": "National Apprenticeship Promotion Scheme",
+    "title_hi": "राष्ट्रीय शिक्षुता संवर्धन योजना (NAPS)",
+    "slug": "national-apprenticeship-promotion-scheme",
+    "description": "Promotes apprenticeship training by sharing stipend cost between government and industry.",
+    "description_hi": "उद्योगों में अप्रेंटिसशिप प्रशिक्षण को बढ़ावा देने हेतु नियोक्ताओं को वजीफे का 25% अंशदान सरकार द्वारा देना।",
+    "category": "youth",
+    "tags": [
+      "apprenticeship",
+      "training",
+      "industry",
+      "youth",
+      "stipend"
+    ],
+    "tags_hi": [
+      "शिक्षुता",
+      "अप्रेंटिसशिप",
+      "प्रशिक्षण",
+      "वजीफा",
+      "युवा"
+    ],
+    "eligibility": {
+      "min_age": 14,
+      "max_age": 35,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "student"
+      ],
+      "state": "all"
+    },
+    "benefits": "25% stipend reimbursement to employers, skill certification",
+    "benefits_hi": "नियोक्ताओं को 25% वजीफा प्रतिपूर्ति (अधिकतम ₹1,500/माह) और प्रशिक्षुओं को उद्योग प्रशिक्षण",
+    "application_url": "https://apprenticeshipindia.org",
+    "ministry": "Ministry of Skill Development & Entrepreneurship",
+    "ministry_hi": "कौशल विकास एवं उद्यमिता मंत्रालय",
+    "launched_year": 2016,
+    "is_active": true
+  },
+  {
+    "title": "PM Kisan Maan Dhan Yojana",
+    "title_hi": "पीएम किसान मानधन योजना",
+    "slug": "pm-kisan-maan-dhan-yojana",
+    "description": "Pension scheme for small and marginal farmers providing monthly pension after age 60.",
+    "description_hi": "2 हेक्टेयर तक खेती योग्य भूमि वाले छोटे और सीमांत किसानों के लिए वृद्धावस्था सामाजिक सुरक्षा पेंशन योजना।",
+    "category": "agriculture",
+    "tags": [
+      "farmer",
+      "pension",
+      "old age",
+      "retirement",
+      "agriculture",
+      "rural area"
+    ],
+    "tags_hi": [
+      "किसान",
+      "पेंशन",
+      "वृद्धावस्था",
+      "सेवानिवृत्ति",
+      "कृषि",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 40,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "farmer"
+      ],
+      "state": "all"
+    },
+    "benefits": "Rs.3000 per month pension after age 60",
+    "benefits_hi": "60 वर्ष की आयु प्राप्त करने के बाद ₹3,000 प्रति माह निश्चित पेंशन",
+    "application_url": "https://pmkmy.gov.in",
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "ministry_hi": "कृषि एवं किसान कल्याण मंत्रालय",
+    "launched_year": 2019,
+    "is_active": true
+  },
+  {
+    "title": "Pradhan Mantri Awas Yojana Gramin",
+    "title_hi": "प्रधानमंत्री आवास योजना (ग्रामीण)",
+    "slug": "pm-awas-yojana-gramin",
+    "description": "Rural housing scheme providing financial assistance to homeless and kutcha house dwellers in villages.",
+    "description_hi": "ग्रामीण क्षेत्रों में कच्चे या टूटे-फूटे मकानों में रह रहे बेघर परिवारों को स्वच्छ रसोईघर युक्त पक्के मकान हेतु आर्थिक सहायता।",
+    "category": "housing",
+    "tags": [
+      "rural housing",
+      "village",
+      "construction",
+      "bpl",
+      "pucca house",
+      "rural area"
+    ],
+    "tags_hi": [
+      "ग्रामीण आवास",
+      "पक्का मकान",
+      "गांव",
+      "बीपीएल",
+      "घर",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Rs.1.2 lakh to Rs.1.3 lakh for house construction in rural areas",
+    "benefits_hi": "मैदानी क्षेत्रों में ₹1.20 लाख और पहाड़ी क्षेत्रों में ₹1.30 लाख की सीधी मकान निर्माण सहायता",
+    "application_url": "https://pmayg.nic.in",
+    "ministry": "Ministry of Rural Development",
+    "ministry_hi": "ग्रामीण विकास मंत्रालय",
+    "launched_year": 2016,
+    "is_active": true
+  },
+  {
+    "title": "Jal Jeevan Mission",
+    "title_hi": "जल जीवन मिशन (हर घर जल)",
+    "slug": "jal-jeevan-mission",
+    "description": "Provides safe and adequate drinking water through individual household tap connections to rural households.",
+    "description_hi": "देश के प्रत्येक ग्रामीण परिवार को वर्ष 2024 तक व्यक्तिगत घरेलू नल कनेक्शन के माध्यम से स्वच्छ पेयजल उपलब्ध कराना।",
+    "category": "health",
+    "tags": [
+      "drinking water",
+      "tap connection",
+      "rural",
+      "clean water",
+      "sanitation",
+      "rural area"
+    ],
+    "tags_hi": [
+      "पेयजल",
+      "नल कनेक्शन",
+      "ग्रामीण",
+      "स्वच्छ जल",
+      "हर घर जल",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Free household tap water connection in rural areas",
+    "benefits_hi": "ग्रामीण घरों में निःशुल्क घरेलू नल कनेक्शन और प्रति व्यक्ति 55 लीटर स्वच्छ पेयजल प्रतिदिन",
+    "application_url": "https://jaljeevanmission.gov.in",
+    "ministry": "Ministry of Jal Shakti",
+    "ministry_hi": "जल शक्ति मंत्रालय",
+    "launched_year": 2019,
+    "is_active": true
+  },
+  {
+    "title": "Pradhan Mantri Shram Yogi Maan Dhan",
+    "title_hi": "प्रधानमंत्री श्रम योगी मानधन योजना",
+    "slug": "pm-shram-yogi-maan-dhan",
+    "description": "Pension scheme for unorganized sector workers providing monthly pension of Rs.3000 after age 60.",
+    "description_hi": "मासिक आय ₹15,000 से कम वाले असंगठित क्षेत्र के कामगारों के लिए वृद्धावस्था पेंशन योजना।",
+    "category": "elderly",
+    "tags": [
+      "pension",
+      "unorganized worker",
+      "labour",
+      "retirement",
+      "old age"
+    ],
+    "tags_hi": [
+      "पेंशन",
+      "असंगठित कामगार",
+      "मजदूर",
+      "वृद्धावस्था",
+      "श्रम"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 40,
+      "gender": "all",
+      "income_limit": 180000,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "unorganized sector"
+      ],
+      "state": "all"
+    },
+    "benefits": "Rs.3000 per month pension after age 60",
+    "benefits_hi": "60 वर्ष की आयु के बाद ₹3,000 प्रति माह की गारंटीड न्यूनतम पेंशन",
+    "application_url": "https://maandhan.in",
+    "ministry": "Ministry of Labour & Employment",
+    "ministry_hi": "श्रम एवं रोजगार मंत्रालय",
+    "launched_year": 2019,
+    "is_active": true
+  },
+  {
+    "title": "e-SHRAM Portal",
+    "title_hi": "ई-श्रम पोर्टल",
+    "slug": "e-shram-portal",
+    "description": "National database of unorganized workers providing registration and social security benefits.",
+    "description_hi": "असंगठित क्षेत्र के कामगारों का पहला राष्ट्रीय व्यापक डेटाबेस, जिससे उन्हें सभी कल्याणकारी योजनाओं का सीधा लाभ मिले।",
+    "category": "employment",
+    "tags": [
+      "unorganized worker",
+      "registration",
+      "social security",
+      "labour",
+      "e-card"
+    ],
+    "tags_hi": [
+      "असंगठित श्रमिक",
+      "पंजीकरण",
+      "सामाजिक सुरक्षा",
+      "ई-श्रम कार्ड"
+    ],
+    "eligibility": {
+      "min_age": 16,
+      "max_age": 59,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "unorganized sector"
+      ],
+      "state": "all"
+    },
+    "benefits": "Rs.2 lakh accident insurance and access to social security schemes",
+    "benefits_hi": "12 अंकों का विशिष्ट ई-श्रम कार्ड और ₹2 लाख का दुर्घटना बीमा कवर",
+    "application_url": "https://eshram.gov.in",
+    "ministry": "Ministry of Labour & Employment",
+    "ministry_hi": "श्रम एवं रोजगार मंत्रालय",
+    "launched_year": 2021,
+    "is_active": true
+  },
+  {
+    "title": "One Nation One Ration Card",
+    "title_hi": "एक राष्ट्र एक राशन कार्ड (ONORC)",
+    "slug": "one-nation-one-ration-card",
+    "description": "Allows beneficiaries to access their ration from any fair price shop across India.",
+    "description_hi": "प्रवासी मजदूरों और नागरिकों को देश में किसी भी सार्वजनिक वितरण प्रणाली (PDS) राशन दुकान से राशन लेने की राष्ट्रव्यापी पोर्टेबिलिटी।",
+    "category": "health",
+    "tags": [
+      "ration card",
+      "food security",
+      "portability",
+      "migrant",
+      "PDS"
+    ],
+    "tags_hi": [
+      "राशन कार्ड",
+      "पोर्टेबिलिटी",
+      "प्रवासी मजदूर",
+      "खाद्य सुरक्षा"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Access subsidized food grain from any ration shop across India",
+    "benefits_hi": "बायोमेट्रिक सत्यापन द्वारा देश भर में किसी भी उचित मूल्य की दुकान से राशन उठाने की आजादी",
+    "application_url": "https://dfpd.gov.in",
+    "ministry": "Ministry of Consumer Affairs, Food & Public Distribution",
+    "ministry_hi": "उपभोक्ता मामले, खाद्य एवं सार्वजनिक वितरण मंत्रालय",
+    "launched_year": 2019,
+    "is_active": true
+  },
+  {
+    "title": "Pradhan Mantri Laghu Vyapari Maan Dhan",
+    "title_hi": "प्रधानमंत्री लघु व्यापारी मानधन योजना",
+    "slug": "pm-laghu-vyapari-maan-dhan",
+    "description": "Pension scheme for small traders and shopkeepers providing Rs.3000 monthly pension after age 60.",
+    "description_hi": "₹1.5 करोड़ तक वार्षिक कारोबार वाले छोटे दुकानदारों और खुदरा व्यापारियों के लिए राष्ट्रीय पेंशन योजना।",
+    "category": "financial",
+    "tags": [
+      "trader",
+      "shopkeeper",
+      "pension",
+      "small business",
+      "retirement"
+    ],
+    "tags_hi": [
+      "व्यापारी",
+      "दुकानदार",
+      "पेंशन",
+      "छोटा व्यवसाय",
+      "सेवानिवृत्ति"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 40,
+      "gender": "all",
+      "income_limit": 150000000,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "business",
+        "trader"
+      ],
+      "state": "all"
+    },
+    "benefits": "Rs.3000 per month pension after age 60",
+    "benefits_hi": "60 वर्ष की आयु के बाद ₹3,000 प्रति माह की निश्चित पेंशन",
+    "application_url": "https://maandhan.in",
+    "ministry": "Ministry of Commerce & Industry",
+    "ministry_hi": "वाणिज्य एवं उद्योग मंत्रालय",
+    "launched_year": 2019,
+    "is_active": true
+  },
+  {
+    "title": "Antyodaya Anna Yojana",
+    "title_hi": "अंत्योदय अन्न योजना (AAY)",
+    "slug": "antyodaya-anna-yojana",
+    "description": "Provides heavily subsidized food grains to poorest of the poor families at Rs.2-3 per kg.",
+    "description_hi": "गरीबी रेखा से नीचे के सबसे वंचित परिवारों को भूख से मुक्ति दिलाने के लिए भारी सब्सिडी वाला खाद्यान्न।",
+    "category": "health",
+    "tags": [
+      "food",
+      "ration",
+      "poorest",
+      "subsidized",
+      "wheat rice"
+    ],
+    "tags_hi": [
+      "खाद्यान्न",
+      "राशन",
+      "अत्यधिक गरीब",
+      "सब्सिडी",
+      "अंत्योदय"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": 50000,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "35kg food grain per month at Rs.2 per kg wheat and Rs.3 per kg rice",
+    "benefits_hi": "प्रति परिवार प्रति माह ₹2/किग्रा गेहूं और ₹3/किग्रा चावल की दर से 35 किग्रा अनाज",
+    "application_url": "https://dfpd.gov.in",
+    "ministry": "Ministry of Consumer Affairs, Food & Public Distribution",
+    "ministry_hi": "उपभोक्ता मामले, खाद्य एवं सार्वजनिक वितरण मंत्रालय",
+    "launched_year": 2000,
+    "is_active": true
+  },
+  {
+    "title": "National Health Mission",
+    "title_hi": "राष्ट्रीय स्वास्थ्य मिशन (NHM)",
+    "slug": "national-health-mission",
+    "description": "Provides accessible, affordable and quality healthcare to rural and urban populations across India.",
+    "description_hi": "देश के ग्रामीण और शहरी क्षेत्रों में प्राथमिक और द्वितीयक स्वास्थ्य तंत्र को सुदृढ़ कर सभी को सस्ती स्वास्थ्य सेवाएं देना।",
+    "category": "health",
+    "tags": [
+      "healthcare",
+      "rural health",
+      "free medicine",
+      "hospital",
+      "maternal health",
+      "rural area"
+    ],
+    "tags_hi": [
+      "स्वास्थ्य सेवा",
+      "ग्रामीण स्वास्थ्य",
+      "मुफ्त दवा",
+      "अस्पताल",
+      "मातृ स्वास्थ्य",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Free healthcare services, medicines and diagnostics at government hospitals",
+    "benefits_hi": "सरकारी अस्पतालों में मुफ्त आवश्यक दवाएं, मुफ्त जांच और चौबीसों घंटे प्रसव सेवाएं",
+    "application_url": "https://nhm.gov.in",
+    "ministry": "Ministry of Health & Family Welfare",
+    "ministry_hi": "स्वास्थ्य एवं परिवार कल्याण मंत्रालय",
+    "launched_year": 2013,
+    "is_active": true
+  },
+  {
+    "title": "Poshan Abhiyaan",
+    "title_hi": "पोषण अभियान (राष्ट्रीय पोषण मिशन)",
+    "slug": "poshan-abhiyaan",
+    "description": "National nutrition mission to reduce malnutrition among children, pregnant women and lactating mothers.",
+    "description_hi": "आंगनवाड़ी केंद्रों के माध्यम से बच्चों, किशोरियों और गर्भवती महिलाओं में कुपोषण और एनीमिया को जड़ से मिटाने का अभियान।",
+    "category": "health",
+    "tags": [
+      "nutrition",
+      "malnutrition",
+      "children",
+      "pregnant women",
+      "health"
+    ],
+    "tags_hi": [
+      "पोषण",
+      "कुपोषण",
+      "बच्चे",
+      "गर्भवती महिला",
+      "स्वास्थ्य"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": 6,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Nutritional supplements, counselling and health checkups",
+    "benefits_hi": "पूरक पोषाहार, नियमित वजन-लंबाई निगरानी, स्वास्थ्य परामर्श और पोषण ट्रैकर सहायता",
+    "application_url": "https://poshanabhiyaan.gov.in",
+    "ministry": "Ministry of Women & Child Development",
+    "ministry_hi": "महिला एवं बाल विकास मंत्रालय",
+    "launched_year": 2018,
+    "is_active": true
+  },
+  {
+    "title": "Deen Dayal Antyodaya Yojana",
+    "title_hi": "दीनदयाल अंत्योदय योजना (DAY)",
+    "slug": "deen-dayal-antyodaya-yojana",
+    "description": "Skill training and livelihood enhancement scheme for urban and rural poor.",
+    "description_hi": "ग्रामीण एवं शहरी निर्धन परिवारों को स्वयं सहायता समूहों में संगठित कर कौशल विकास और स्वरोजगार के साधन प्रदान करना।",
+    "category": "employment",
+    "tags": [
+      "urban poor",
+      "skill",
+      "livelihood",
+      "self employment",
+      "poverty"
+    ],
+    "tags_hi": [
+      "आजीविका",
+      "कौशल",
+      "गरीबी उन्मूलन",
+      "स्वयं सहायता समूह"
+    ],
+    "eligibility": {
+      "min_age": 15,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Free skill training and placement support for urban and rural poor",
+    "benefits_hi": "निःशुल्क कौशल प्रशिक्षण, सूक्ष्म वित्त सहायता और स्वरोजगार हेतु रियायती ब्याज ऋण",
+    "application_url": "https://aajeevika.gov.in",
+    "ministry": "Ministry of Rural Development",
+    "ministry_hi": "ग्रामीण विकास मंत्रालय",
+    "launched_year": 2014,
+    "is_active": true
+  },
+  {
+    "title": "AICTE Pragati Scholarship",
+    "title_hi": "एआईसीटीई प्रगति छात्रवृत्ति योजना",
+    "slug": "aicte-pragati-scholarship",
+    "description": "Scholarship for girl students pursuing technical education in AICTE approved institutions.",
+    "description_hi": "तकनीकी शिक्षा (डिग्री या डिप्लोमा कोर्स) में प्रवेश लेने वाली मेधावी छात्राओं को वित्तीय सहायता प्रदान करना।",
+    "category": "education",
+    "tags": [
+      "scholarship",
+      "girl",
+      "technical education",
+      "engineering",
+      "college"
+    ],
+    "tags_hi": [
+      "छात्रवृत्ति",
+      "छात्रा",
+      "तकनीकी शिक्षा",
+      "इंजीनियरिंग",
+      "कॉलेज"
+    ],
+    "eligibility": {
+      "min_age": 17,
+      "max_age": 30,
+      "gender": "female",
+      "income_limit": 800000,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "student"
+      ],
+      "state": "all"
+    },
+    "benefits": "Rs.50000 per year scholarship for tuition and incidental charges",
+    "benefits_hi": "पाठ्यक्रम के प्रत्येक वर्ष ₹50,000 की वित्तीय छात्रवृत्ति (कॉलेज शुल्क व किताब हेतु)",
+    "application_url": "https://www.aicte-india.org",
+    "ministry": "Ministry of Education",
+    "ministry_hi": "शिक्षा मंत्रालय",
+    "launched_year": 2014,
+    "is_active": true
+  },
+  {
+    "title": "PM YASASVI Scholarship",
+    "title_hi": "पीएम यशस्वी छात्रवृत्ति योजना",
+    "slug": "pm-yasasvi-scholarship",
+    "description": "Scholarship scheme for OBC, EBC and DNT students studying in class 9 to 12.",
+    "description_hi": "कक्षा 9 और 11 में पढ़ने वाले ओबीसी (OBC), ईबीसी (EBC) और विमुक्त जनजाति (DNT) के छात्रों के लिए शीर्ष विद्यालय छात्रवृत्ति।",
+    "category": "education",
+    "tags": [
+      "scholarship",
+      "obc",
+      "ebc",
+      "school",
+      "student"
+    ],
+    "tags_hi": [
+      "छात्रवृत्ति",
+      "ओबीसी",
+      "ईबीसी",
+      "स्कूल छात्र",
+      "यशस्वी"
+    ],
+    "eligibility": {
+      "min_age": 14,
+      "max_age": 18,
+      "gender": "all",
+      "income_limit": 250000,
+      "caste": [
+        "obc",
+        "ebc",
+        "dnt"
+      ],
+      "occupation": [
+        "student"
+      ],
+      "state": "all"
+    },
+    "benefits": "Rs.75000 to Rs.125000 per year scholarship",
+    "benefits_hi": "कक्षा 9-10 के लिए ₹75,000/वर्ष और कक्षा 11-12 के लिए ₹1,25,000/वर्ष तक की छात्रवृत्ति",
+    "application_url": "https://yet.nta.ac.in",
+    "ministry": "Ministry of Social Justice & Empowerment",
+    "ministry_hi": "सामाजिक न्याय एवं अधिकारिता मंत्रालय",
+    "launched_year": 2023,
+    "is_active": true
+  },
+  {
+    "title": "Pradhan Mantri Surakshit Matritva Abhiyan",
+    "title_hi": "प्रधानमंत्री सुरक्षित मातृत्व अभियान",
+    "slug": "pm-surakshit-matritva-abhiyan",
+    "description": "Provides free antenatal care to pregnant women on the 9th of every month at government health centres.",
+    "description_hi": "प्रत्येक माह की 9 तारीख को सरकारी अस्पतालों में विशेषज्ञ डॉक्टरों द्वारा गर्भवती महिलाओं की निःशुल्क व्यापक स्वास्थ्य जांच।",
+    "category": "women",
+    "tags": [
+      "pregnant",
+      "antenatal",
+      "checkup",
+      "maternity",
+      "free healthcare"
+    ],
+    "tags_hi": [
+      "गर्भवती",
+      "प्रसव पूर्व जांच",
+      "मातृत्व",
+      "मुफ्त स्वास्थ्य जांच"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "female",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Free antenatal checkup on 9th of every month",
+    "benefits_hi": "हर महीने की 9 तारीख को मुफ्त प्रसव पूर्व जांच, हीमोग्लोबिन/शुगर टेस्ट और दवाइयां",
+    "application_url": "https://pmsma.nhp.gov.in",
+    "ministry": "Ministry of Health & Family Welfare",
+    "ministry_hi": "स्वास्थ्य एवं परिवार कल्याण मंत्रालय",
+    "launched_year": 2016,
+    "is_active": true
+  },
+  {
+    "title": "Rashtriya Arogya Nidhi",
+    "title_hi": "राष्ट्रीय आरोग्य निधि (RAN)",
+    "slug": "rashtriya-arogya-nidhi",
+    "description": "Financial assistance to BPL patients suffering from life threatening diseases for treatment at super speciality hospitals.",
+    "description_hi": "कैंसर और अन्य जानलेवा बीमारियों से पीड़ित बीपीएल परिवारों के रोगियों को सुपर स्पेशियलिटी सरकारी अस्पतालों में इलाज हेतु सहायता।",
+    "category": "health",
+    "tags": [
+      "critical illness",
+      "bpl",
+      "hospital",
+      "financial aid",
+      "treatment"
+    ],
+    "tags_hi": [
+      "गंभीर बीमारी",
+      "बीपीएल",
+      "अस्पताल",
+      "वित्तीय सहायता",
+      "इलाज"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": 100000,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Financial assistance up to Rs.15 lakh for critical illness treatment",
+    "benefits_hi": "गंभीर बीमारियों के ऑपरेशन और इलाज के लिए ₹15 लाख तक की सीधी सरकारी वित्तीय सहायता",
+    "application_url": "https://mohfw.gov.in",
+    "ministry": "Ministry of Health & Family Welfare",
+    "ministry_hi": "स्वास्थ्य एवं परिवार कल्याण मंत्रालय",
+    "launched_year": 1997,
+    "is_active": true
+  },
+  {
+    "title": "National Rural Livelihood Mission",
+    "title_hi": "राष्ट्रीय ग्रामीण आजीविका मिशन (आजीविका)",
+    "slug": "national-rural-livelihood-mission",
+    "description": "Empowers rural poor women through self help groups and provides access to financial services and livelihoods.",
+    "description_hi": "ग्रामीण गरीब महिलाओं को स्वयं सहायता समूहों (SHGs) के जरिए सशक्त बनाकर स्वरोजगार और स्थायी आजीविका से जोड़ना।",
+    "category": "women",
+    "tags": [
+      "self help group",
+      "rural women",
+      "livelihood",
+      "microfinance",
+      "empowerment",
+      "rural area"
+    ],
+    "tags_hi": [
+      "स्वयं सहायता समूह",
+      "ग्रामीण महिला",
+      "आजीविका",
+      "सूक्ष्म वित्त",
+      "सशक्तिकरण",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "female",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Access to credit, skill training and livelihood support through SHGs",
+    "benefits_hi": "सुलभ बैंक ऋण, रिवॉल्विंग फंड, कौशल प्रशिक्षण और महिला उत्पाद विपणन सहायता",
+    "application_url": "https://aajeevika.gov.in",
+    "ministry": "Ministry of Rural Development",
+    "ministry_hi": "ग्रामीण विकास मंत्रालय",
+    "launched_year": 2011,
+    "is_active": true
+  },
+  {
+    "title": "SVAMITVA Scheme",
+    "title_hi": "स्वामित्व योजना",
+    "slug": "svamitva-yojana",
+    "description": "Survey of Villages and Mapping with Improvised Technology in Village Areas using drones to provide property ownership cards to rural households.",
+    "description_hi": "ड्रोन तकनीक द्वारा ग्रामीण आबादी वाले क्षेत्रों का सर्वेक्षण कर ग्रामीणों को उनकी आवासीय भूमि के कानूनी मालिकाना हक (संपत्ति कार्ड) प्रदान करना।",
+    "category": "housing",
+    "tags": [
+      "rural",
+      "village",
+      "drone mapping",
+      "property card",
+      "land ownership",
+      "panchayat",
+      "rural area"
+    ],
+    "tags_hi": [
+      "ग्रामीण",
+      "गांव",
+      "ड्रोन मैपिंग",
+      "संपत्ति कार्ड",
+      "जमीन मालिकाना हक",
+      "पंचायत",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Official legal property card (Gharoni) for rural households enabling bank loans using property as collateral",
+    "benefits_hi": "ग्रामीण आबादी को संपत्ति कार्ड (घरौनी) जिसके आधार पर बैंक से आसानी से ऋण प्राप्त किया जा सकता है",
+    "application_url": "https://svamitva.nic.in",
+    "ministry": "Ministry of Panchayati Raj",
+    "ministry_hi": "पंचायती राज मंत्रालय",
+    "launched_year": 2020,
+    "is_active": true
+  },
+  {
+    "title": "PM-KUSUM Scheme",
+    "title_hi": "पीएम कुसुम योजना",
+    "slug": "pm-kusum-yojana",
+    "description": "Enables farmers to install solar water pumps and grid-connected solar power plants on barren rural lands for clean irrigation and extra income.",
+    "description_hi": "किसानों को खेतों में सिंचाई हेतु सोलर पंप लगाने और बंजर भूमि पर सौर ऊर्जा संयंत्र लगाकर अतिरिक्त आय अर्जित करने हेतु भारी सब्सिडी।",
+    "category": "agriculture",
+    "tags": [
+      "solar pump",
+      "rural",
+      "farmer",
+      "clean energy",
+      "irrigation",
+      "subsidy",
+      "rural area"
+    ],
+    "tags_hi": [
+      "सोलर पंप",
+      "ग्रामीण",
+      "किसान",
+      "सौर ऊर्जा",
+      "सिंचाई",
+      "सब्सिडी",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "farmer"
+      ],
+      "state": "all"
+    },
+    "benefits": "Up to 60% government subsidy on standalone solar agriculture pumps",
+    "benefits_hi": "सोलर कृषि पंप स्थापना पर सरकार द्वारा 60% तक की भारी सब्सिडी",
+    "application_url": "https://pmkusum.mnre.gov.in",
+    "ministry": "Ministry of New & Renewable Energy",
+    "ministry_hi": "नवीन एवं नवीकरणीय ऊर्जा मंत्रालय",
+    "launched_year": 2019,
+    "is_active": true
+  },
+  {
+    "title": "PM Krishi Sinchayee Yojana (PMKSY)",
+    "title_hi": "प्रधानमंत्री कृषि सिंचाई योजना",
+    "slug": "pm-krishi-sinchayee-yojana",
+    "description": "Comprehensive irrigation initiative aimed at 'Har Khet Ko Pani' and improving on-farm water use efficiency through 'More Crop Per Drop' micro-irrigation.",
+    "description_hi": "'हर खेत को पानी' और 'प्रति बूंद अधिक फसल' के उद्देश्य से ग्रामीण क्षेत्रों में ड्रिप व स्प्रिंकलर माइक्रो-सिंचाई हेतु वित्तीय सहायता।",
+    "category": "agriculture",
+    "tags": [
+      "irrigation",
+      "farmer",
+      "rural",
+      "drip irrigation",
+      "water conservation",
+      "rural area"
+    ],
+    "tags_hi": [
+      "सिंचाई",
+      "किसान",
+      "ग्रामीण",
+      "ड्रिप सिंचाई",
+      "जल संरक्षण",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "farmer"
+      ],
+      "state": "all"
+    },
+    "benefits": "Up to 55% subsidy on drip and sprinkler irrigation equipment for small/marginal farmers",
+    "benefits_hi": "लघु व सीमांत किसानों को ड्रिप एवं स्प्रिंकलर सिंचाई उपकरणों पर 55% तक सब्सिडी",
+    "application_url": "https://pmksy.gov.in",
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "ministry_hi": "कृषि एवं किसान कल्याण मंत्रालय",
+    "launched_year": 2015,
+    "is_active": true
+  },
+  {
+    "title": "Rashtriya Krishi Vikas Yojana (RKVY)",
+    "title_hi": "राष्ट्रीय कृषि विकास योजना (रफ्तार)",
+    "slug": "rashtriya-krishi-vikas-yojana",
+    "description": "Incentivizes states to enhance public investment in agriculture and allied sectors, rural agribusiness incubation, and farmer infrastructure.",
+    "description_hi": "ग्रामीण कृषि एवं संबद्ध क्षेत्रों में बुनियादी ढांचे के विकास और कृषि-स्टार्टअप्स को सीड फंडिंग व इनक्यूबेशन सहायता।",
+    "category": "agriculture",
+    "tags": [
+      "agribusiness",
+      "rural",
+      "farmer",
+      "startup",
+      "infrastructure",
+      "rural area"
+    ],
+    "tags_hi": [
+      "कृषि व्यवसाय",
+      "ग्रामीण",
+      "किसान",
+      "स्टार्टअप",
+      "बुनियादी ढांचा",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "farmer",
+        "entrepreneur"
+      ],
+      "state": "all"
+    },
+    "benefits": "Grants-in-aid up to Rs.25 lakh for agri-startups and rural farmer infrastructure",
+    "benefits_hi": "कृषि-स्टार्टअप्स और ग्रामीण किसानों के लिए ₹25 लाख तक का वित्तीय अनुदान",
+    "application_url": "https://rkvy.nic.in",
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "ministry_hi": "कृषि एवं किसान कल्याण मंत्रालय",
+    "launched_year": 2007,
+    "is_active": true
+  },
+  {
+    "title": "Paramparagat Krishi Vikas Yojana (PKVY)",
+    "title_hi": "परंपरागत कृषि विकास योजना",
+    "slug": "paramparagat-krishi-vikas-yojana",
+    "description": "Promotes organic farming among rural farmer clusters through Participatory Guarantee System (PGS) certification and financial support.",
+    "description_hi": "ग्रामीण किसान समूहों में पारंपरिक जैविक खेती को बढ़ावा देने और प्रमाणीकरण व विपणन हेतु सीधी वित्तीय सहायता।",
+    "category": "agriculture",
+    "tags": [
+      "organic farming",
+      "rural",
+      "farmer",
+      "soil",
+      "cluster",
+      "rural area"
+    ],
+    "tags_hi": [
+      "जैविक खेती",
+      "ग्रामीण",
+      "किसान",
+      "मिट्टी",
+      "क्लस्टर",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "farmer"
+      ],
+      "state": "all"
+    },
+    "benefits": "Rs.50,000 per hectare financial assistance over 3 years for organic inputs and certification",
+    "benefits_hi": "जैविक खाद, बीज व प्रमाणीकरण हेतु 3 वर्षों में ₹50,000 प्रति हेक्टेयर वित्तीय सहायता",
+    "application_url": "https://pgsindia-ncof.gov.in",
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "ministry_hi": "कृषि एवं किसान कल्याण मंत्रालय",
+    "launched_year": 2015,
+    "is_active": true
+  },
+  {
+    "title": "Agricultural Mechanization Sub-Mission (SMAM)",
+    "title_hi": "कृषि यंत्रीकरण उप-मिशन",
+    "slug": "sub-mission-on-agricultural-mechanization",
+    "description": "Provides financial subsidy to rural farmers for purchasing modern farm machinery, tractors, and setting up Custom Hiring Centres.",
+    "description_hi": "ग्रामीण किसानों को आधुनिक कृषि यंत्र, ट्रैक्टर खरीदने और गांवों में कस्टम हायरिंग सेंटर स्थापित करने हेतु सब्सिडी।",
+    "category": "agriculture",
+    "tags": [
+      "tractor",
+      "farm machinery",
+      "rural",
+      "custom hiring",
+      "mechanization",
+      "rural area"
+    ],
+    "tags_hi": [
+      "ट्रैक्टर",
+      "कृषि यंत्र",
+      "ग्रामीण",
+      "कस्टम हायरिंग",
+      "यंत्रीकरण",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "farmer"
+      ],
+      "state": "all"
+    },
+    "benefits": "40% to 50% subsidy on farm equipment and up to 80% for village Custom Hiring Centres",
+    "benefits_hi": "कृषि उपकरणों पर 40% से 50% तथा ग्राम कस्टम हायरिंग सेंटर पर 80% तक सब्सिडी",
+    "application_url": "https://agrimachinery.nic.in",
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "ministry_hi": "कृषि एवं किसान कल्याण मंत्रालय",
+    "launched_year": 2014,
+    "is_active": true
+  },
+  {
+    "title": "PM Matsya Sampada Yojana (PMMSY)",
+    "title_hi": "प्रधानमंत्री मत्स्य संपदा योजना",
+    "slug": "pm-matsya-sampada-yojana",
+    "description": "Flagship scheme for ecological, sustainable development of the fisheries sector and income enhancement for rural fishers and fish farmers.",
+    "description_hi": "ग्रामीण तालाबों और तटीय क्षेत्रों में मछली पालन, बायोफ्लोक, आरएएस और मत्स्य पालकों की आय दोगुनी करने हेतु योजना।",
+    "category": "agriculture",
+    "tags": [
+      "fisheries",
+      "aquaculture",
+      "fish farmer",
+      "rural",
+      "ponds",
+      "rural area"
+    ],
+    "tags_hi": [
+      "मत्स्य पालन",
+      "मछली पालन",
+      "ग्रामीण",
+      "तालाब",
+      "एक्वाकल्चर",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "farmer"
+      ],
+      "state": "all"
+    },
+    "benefits": "40% subsidy for general category and 60% for SC/ST/women on fish farming units",
+    "benefits_hi": "मछली पालन यूनिट स्थापना पर सामान्य वर्ग को 40% और महिला/SC/ST को 60% सब्सिडी",
+    "application_url": "https://pmmsy.dof.gov.in",
+    "ministry": "Ministry of Fisheries, Animal Husbandry & Dairying",
+    "ministry_hi": "मत्स्यपालन, पशुपालन एवं डेयरी मंत्रालय",
+    "launched_year": 2020,
+    "is_active": true
+  },
+  {
+    "title": "National Livestock Mission (NLM)",
+    "title_hi": "राष्ट्रीय पशुधन मिशन",
+    "slug": "national-livestock-mission",
+    "description": "Sustainable growth of livestock sector, entrepreneurship development in rural poultry, sheep, goat, and piggery farming with fodder security.",
+    "description_hi": "ग्रामीण युवाओं व किसानों को बकरी, भेड़, मुर्गी और सुअर पालन में उद्यमिता स्थापित करने हेतु 50% पूंजीगत सब्सिडी।",
+    "category": "agriculture",
+    "tags": [
+      "livestock",
+      "poultry",
+      "goat farming",
+      "rural",
+      "dairy",
+      "fodder",
+      "rural area"
+    ],
+    "tags_hi": [
+      "पशुधन",
+      "मुर्गी पालन",
+      "बकरी पालन",
+      "ग्रामीण",
+      "पशुपालन",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "farmer",
+        "entrepreneur"
+      ],
+      "state": "all"
+    },
+    "benefits": "50% capital subsidy up to Rs.50 lakh for setting up rural livestock breeding farms",
+    "benefits_hi": "ग्रामीण पशुधन प्रजनन फार्म स्थापना पर 50% (अधिकतम ₹50 लाख तक) पूंजीगत सब्सिडी",
+    "application_url": "https://nlm.udyamimitra.in",
+    "ministry": "Ministry of Fisheries, Animal Husbandry & Dairying",
+    "ministry_hi": "मत्स्यपालन, पशुपालन एवं डेयरी मंत्रालय",
+    "launched_year": 2014,
+    "is_active": true
+  },
+  {
+    "title": "Rashtriya Gokul Mission",
+    "title_hi": "राष्ट्रीय गोकुल मिशन",
+    "slug": "rashtriya-gokul-mission",
+    "description": "Development and conservation of indigenous bovine breeds to enhance milk productivity and farm income of rural dairy farmers.",
+    "description_hi": "देसी गाय-भैंसों की नस्ल सुधार, कृत्रिम गर्भाधान और ग्रामीण डेयरी किसानों की दुग्ध उत्पादकता बढ़ाने की राष्ट्रीय योजना।",
+    "category": "agriculture",
+    "tags": [
+      "dairy",
+      "cow",
+      "cattle",
+      "rural",
+      "milk productivity",
+      "rural area"
+    ],
+    "tags_hi": [
+      "डेयरी",
+      "गाय",
+      "गोकुल",
+      "ग्रामीण",
+      "दुग्ध उत्पादन",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "farmer"
+      ],
+      "state": "all"
+    },
+    "benefits": "Free artificial insemination services and subsidy up to Rs.2 crore for breed multiplication farms",
+    "benefits_hi": "ग्रामीण क्षेत्रों में निःशुल्क कृत्रिम गर्भाधान और नस्ल संवर्धन फार्म हेतु भारी सब्सिडी",
+    "application_url": "https://dahd.nic.in",
+    "ministry": "Ministry of Fisheries, Animal Husbandry & Dairying",
+    "ministry_hi": "मत्स्यपालन, पशुपालन एवं डेयरी मंत्रालय",
+    "launched_year": 2014,
+    "is_active": true
+  },
+  {
+    "title": "Kisan Credit Card (KCC)",
+    "title_hi": "किसान क्रेडिट कार्ड (KCC)",
+    "slug": "kisan-credit-card",
+    "description": "Provides timely and adequate institutional short-term credit to rural farmers, fishermen, and animal rearers at low interest rates.",
+    "description_hi": "ग्रामीण किसानों, पशुपालकों और मत्स्य पालकों को खेती और संबंधित कार्यों हेतु बेहद सस्ती ब्याज दर पर बैंक ऋण।",
+    "category": "financial",
+    "tags": [
+      "kcc",
+      "crop loan",
+      "rural credit",
+      "farmer",
+      "low interest",
+      "rural area"
+    ],
+    "tags_hi": [
+      "किसान क्रेडिट कार्ड",
+      "फसल ऋण",
+      "ग्रामीण ऋण",
+      "किसान",
+      "सस्ता ब्याज",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 75,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "farmer"
+      ],
+      "state": "all"
+    },
+    "benefits": "Collateral-free loan up to Rs.1.6 lakh (and up to Rs.3 lakh at 4% effective interest with timely repayment)",
+    "benefits_hi": "बिना गारंटी ₹1.6 लाख तक और समय पर भुगतान करने पर 4% प्रभावी ब्याज दर पर ₹3 लाख तक ऋण",
+    "application_url": "https://pmkisan.gov.in",
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "ministry_hi": "कृषि एवं किसान कल्याण मंत्रालय",
+    "launched_year": 1998,
+    "is_active": true
+  },
+  {
+    "title": "e-NAM (National Agriculture Market)",
+    "title_hi": "ई-नाम (राष्ट्रीय कृषि बाजार)",
+    "slug": "e-nam",
+    "description": "Pan-India electronic trading portal networking physical APMC mandis to create a unified national market for agricultural commodities.",
+    "description_hi": "देश भर की कृषि मंडियों को ऑनलाइन जोड़कर किसानों को अपनी फसल का राष्ट्रव्यापी सर्वोत्तम मूल्य दिलाने वाला मंच।",
+    "category": "agriculture",
+    "tags": [
+      "mandi",
+      "online trading",
+      "farmer",
+      "rural market",
+      "fair price",
+      "rural area"
+    ],
+    "tags_hi": [
+      "मंडी",
+      "ऑनलाइन व्यापार",
+      "किसान",
+      "ग्रामीण बाजार",
+      "उचित मूल्य",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "farmer"
+      ],
+      "state": "all"
+    },
+    "benefits": "Direct online payment into bank account, free quality assaying, and competitive pan-India bidding",
+    "benefits_hi": "बैंक खाते में सीधा डिजिटल भुगतान, निःशुल्क फसल गुणवत्ता परीक्षण और बेहतर बाजार भाव",
+    "application_url": "https://enam.gov.in",
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "ministry_hi": "कृषि एवं किसान कल्याण मंत्रालय",
+    "launched_year": 2016,
+    "is_active": true
+  },
+  {
+    "title": "Formation & Promotion of 10,000 FPOs",
+    "title_hi": "10,000 किसान उत्पादक संगठन (FPO) योजना",
+    "slug": "formation-promotion-of-fpos",
+    "description": "Central scheme to organize small and marginal rural farmers into Farmer Producer Organizations for economies of scale and better bargaining power.",
+    "description_hi": "छोटे और सीमांत ग्रामीण किसानों को संगठित कर FPO बनाना ताकि थोक बीज-खाद खरीद और सामूहिक उपज बिक्री का लाभ मिले।",
+    "category": "agriculture",
+    "tags": [
+      "fpo",
+      "farmer",
+      "rural collective",
+      "agribusiness",
+      "group",
+      "rural area"
+    ],
+    "tags_hi": [
+      "एफपीओ",
+      "किसान",
+      "ग्रामीण समूह",
+      "कृषि व्यवसाय",
+      "सामूहिक",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "farmer"
+      ],
+      "state": "all"
+    },
+    "benefits": "Up to Rs.18 lakh financial management support per FPO and matching equity grant up to Rs.15 lakh",
+    "benefits_hi": "प्रत्येक FPO को ₹18 लाख तक का प्रबंधन अनुदान और ₹15 लाख तक का मैचिंग इक्विटी ग्रांट",
+    "application_url": "https://enam.gov.in/web/fpo",
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "ministry_hi": "कृषि एवं किसान कल्याण मंत्रालय",
+    "launched_year": 2020,
+    "is_active": true
+  },
+  {
+    "title": "PMFME Scheme (Micro Food Enterprises)",
+    "title_hi": "पीएम फॉर्मलाइजेशन ऑफ माइक्रो फूड प्रोसेसिंग (PMFME)",
+    "slug": "pm-formalisation-of-micro-food-processing-enterprises",
+    "description": "Provides financial, technical, and business support for upgrading micro food processing units in rural and semi-urban areas under One District One Product.",
+    "description_hi": "'एक जिला एक उत्पाद' (ODOP) के तहत ग्रामीण खाद्य प्रसंस्करण इकाइयों (आचार, पापड़, मसाला, तेल) के उन्नयन हेतु वित्तीय सहायता।",
+    "category": "employment",
+    "tags": [
+      "food processing",
+      "rural enterprise",
+      "odop",
+      "shg",
+      "subsidy",
+      "rural area"
+    ],
+    "tags_hi": [
+      "खाद्य प्रसंस्करण",
+      "ग्रामीण उद्यम",
+      "ओडीओपी",
+      "स्वयं सहायता समूह",
+      "सब्सिडी",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "entrepreneur",
+        "farmer"
+      ],
+      "state": "all"
+    },
+    "benefits": "Credit-linked capital subsidy of 35% up to Rs.10 lakh per unit and seed capital of Rs.40,000 for SHG members",
+    "benefits_hi": "35% क्रेडिट लिंक्ड सब्सिडी (अधिकतम ₹10 लाख) और SHG सदस्यों को ₹40,000 की प्रारंभिक बीज पूंजी",
+    "application_url": "https://pmfme.mofpi.gov.in",
+    "ministry": "Ministry of Food Processing Industries",
+    "ministry_hi": "खाद्य प्रसंस्करण उद्योग मंत्रालय",
+    "launched_year": 2020,
+    "is_active": true
+  },
+  {
+    "title": "Mission Amrit Sarovar",
+    "title_hi": "मिशन अमृत सरोवर",
+    "slug": "mission-amrit-sarovar",
+    "description": "Developing and rejuvenating at least 75 water bodies in every rural district to overcome water crisis and enhance groundwater recharge.",
+    "description_hi": "देश के प्रत्येक ग्रामीण जिले में कम से कम 75 अमृत सरोवरों (तालाबों) का निर्माण व पुनरुद्धार कर भूजल स्तर सुधारना।",
+    "category": "housing",
+    "tags": [
+      "water conservation",
+      "rural pond",
+      "village",
+      "groundwater",
+      "environment",
+      "rural area"
+    ],
+    "tags_hi": [
+      "जल संरक्षण",
+      "ग्रामीण तालाब",
+      "गांव",
+      "भूजल",
+      "अमृत सरोवर",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Revitalized village ponds with recreational spaces, tree plantation, and permanent irrigation water source",
+    "benefits_hi": "गांवों में बारहमासी जल भंडारण, भूजल पुनर्भरण, वृक्षारोपण और सामुदायिक सिंचाई सुविधा",
+    "application_url": "https://amritsarovar.gov.in",
+    "ministry": "Ministry of Rural Development",
+    "ministry_hi": "ग्रामीण विकास मंत्रालय",
+    "launched_year": 2022,
+    "is_active": true
+  },
+  {
+    "title": "Saubhagya Scheme",
+    "title_hi": "सौभाग्य योजना (सहज बिजली हर घर योजना)",
+    "slug": "saubhagya-scheme",
+    "description": "Aimed at universal household electrification in rural and remote hamlets by providing free electricity connections to poor households.",
+    "description_hi": "देश के सभी ग्रामीण क्षेत्रों और दूर-दराज के मजरों में गरीब परिवारों को निःशुल्क बिजली कनेक्शन उपलब्ध कराना।",
+    "category": "housing",
+    "tags": [
+      "electricity",
+      "rural power",
+      "bpl",
+      "lighting",
+      "village",
+      "rural area"
+    ],
+    "tags_hi": [
+      "बिजली",
+      "ग्रामीण बिजली",
+      "बीपीएल",
+      "रोशनी",
+      "गांव",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Free electricity connection including meter and LED lamp for BPL rural households",
+    "benefits_hi": "गरीब ग्रामीण परिवारों को मीटर, वायरिंग और एलईडी बल्ब सहित मुफ्त बिजली कनेक्शन",
+    "application_url": "https://saubhagya.gov.in",
+    "ministry": "Ministry of Power",
+    "ministry_hi": "विद्युत मंत्रालय",
+    "launched_year": 2017,
+    "is_active": true
+  },
+  {
+    "title": "Gram UJALA Scheme",
+    "title_hi": "ग्राम उजाला योजना",
+    "slug": "gram-ujala-scheme",
+    "description": "Provides high quality 7W and 12W LED bulbs at a heavily subsidized cost of Rs.10 per bulb to rural households to cut electricity costs.",
+    "description_hi": "ग्रामीण परिवारों को बिजली का बिल घटाने के लिए मात्र ₹10 प्रति बल्ब की रियायती दर पर उच्च गुणवत्ता वाले एलईडी बल्ब।",
+    "category": "housing",
+    "tags": [
+      "led bulb",
+      "rural lighting",
+      "energy saving",
+      "cheap electricity",
+      "rural area"
+    ],
+    "tags_hi": [
+      "एलईडी बल्ब",
+      "ग्रामीण रोशनी",
+      "ऊर्जा बचत",
+      "सस्ती बिजली",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Up to 5 LED bulbs per rural household at only Rs.10 each with 3 years warranty",
+    "benefits_hi": "प्रति ग्रामीण परिवार 3 साल की गारंटी के साथ मात्र ₹10 प्रति बल्ब की दर पर 5 एलईडी बल्ब",
+    "application_url": "https://eeslindia.org",
+    "ministry": "Ministry of Power",
+    "ministry_hi": "विद्युत मंत्रालय",
+    "launched_year": 2021,
+    "is_active": true
+  },
+  {
+    "title": "DDU Gram Jyoti Yojana (DDUGJY)",
+    "title_hi": "दीनदयाल उपाध्याय ग्राम ज्योति योजना",
+    "slug": "deen-dayal-upadhyaya-gram-jyoti-yojana",
+    "description": "Separates agriculture and non-agriculture feeders to deliver round-the-clock power to rural homes and adequate power to farm tube wells.",
+    "description_hi": "गांवों में कृषि और घरेलू बिजली फीडरों को अलग कर ग्रामीण घरों को 24 घंटे निर्बाध बिजली और खेतों को पर्याप्त बिजली देना।",
+    "category": "housing",
+    "tags": [
+      "rural electricity",
+      "feeder separation",
+      "village power",
+      "infrastructure",
+      "rural area"
+    ],
+    "tags_hi": [
+      "ग्रामीण बिजली",
+      "फीडर पृथक्करण",
+      "ग्राम ज्योति",
+      "बुनियादी ढांचा",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "24x7 electricity supply for rural households and dedicated scheduled supply for farm pumps",
+    "benefits_hi": "ग्रामीण घरों को 24x7 बिजली आपूर्ति और कृषि पंपों हेतु निर्धारित समय पर मजबूत विद्युत आपूर्ति",
+    "application_url": "https://ddugjy.gov.in",
+    "ministry": "Ministry of Power",
+    "ministry_hi": "विद्युत मंत्रालय",
+    "launched_year": 2015,
+    "is_active": true
+  },
+  {
+    "title": "PM-JANMAN Scheme",
+    "title_hi": "पीएम-जनमन (जनजाति आदिवासी न्याय महाअभियान)",
+    "slug": "pm-janman",
+    "description": "Holistic socio-economic empowerment of Particularly Vulnerable Tribal Groups (PVTGs) living in remote rural forest habitations.",
+    "description_hi": "दूरस्थ ग्रामीण व जंगली क्षेत्रों में रहने वाली विशेष रूप से कमजोर जनजातियों (PVTG) को पक्का आवास, स्वच्छ जल, सड़क और बिजली।",
+    "category": "housing",
+    "tags": [
+      "tribal",
+      "pvtg",
+      "remote village",
+      "housing",
+      "adivasi",
+      "clean water",
+      "rural area"
+    ],
+    "tags_hi": [
+      "जनजाति",
+      "आदिवासी",
+      "दूरस्थ गांव",
+      "पक्का आवास",
+      "स्वच्छ जल",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Pucca houses, piped drinking water, electricity, mobile connectivity, and nutrition centres in remote tribal hamlets",
+    "benefits_hi": "दूरदराज के आदिवासी मजरों में पक्का मकान, नल से जल, सोलर बिजली, सड़क और मोबाइल टावर सुविधा",
+    "application_url": "https://tribal.nic.in",
+    "ministry": "Ministry of Tribal Affairs",
+    "ministry_hi": "जनजातीय कार्य मंत्रालय",
+    "launched_year": 2023,
+    "is_active": true
+  },
+  {
+    "title": "PM Van Dhan Yojana",
+    "title_hi": "प्रधानमंत्री वन धन योजना",
+    "slug": "van-dhan-yojana",
+    "description": "Livelihood generation for rural and tribal forest dwellers through collection, processing, and value addition of Minor Forest Produce (MFP).",
+    "description_hi": "ग्रामीण और वनवासी आदिवासियों के लिए लघु वनोपज (महुआ, शहद, आंवला) के संग्रहण, मूल्य संवर्धन और ब्रांडिंग हेतु स्वयं सहायता समूह केंद्र।",
+    "category": "employment",
+    "tags": [
+      "tribal",
+      "minor forest produce",
+      "rural livelihood",
+      "forest",
+      "shg",
+      "rural area"
+    ],
+    "tags_hi": [
+      "वन धन",
+      "आदिवासी",
+      "लघु वनोपज",
+      "ग्रामीण आजीविका",
+      "वनोपज",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "st"
+      ],
+      "occupation": [
+        "artisan"
+      ],
+      "state": "all"
+    },
+    "benefits": "Rs.15 lakh grant per Van Dhan Vikas Kendra for equipment, training, and value addition infrastructure",
+    "benefits_hi": "प्रत्येक वन धन केंद्र को ₹15 लाख का अनुदान, प्रसंस्करण उपकरण और उत्पादों की ब्रांडेड बिक्री सुविधा",
+    "application_url": "https://trifed.tribal.gov.in",
+    "ministry": "Ministry of Tribal Affairs",
+    "ministry_hi": "जनजातीय कार्य मंत्रालय",
+    "launched_year": 2018,
+    "is_active": true
+  },
+  {
+    "title": "PM Adarsh Gram Yojana (PMAGY)",
+    "title_hi": "प्रधानमंत्री आदर्श ग्राम योजना",
+    "slug": "pradhan-mantri-adarsh-gram-yojana",
+    "description": "Integrated development of SC-majority villages through convergence of schemes ensuring all basic physical and social infrastructure.",
+    "description_hi": "50% से अधिक अनुसूचित जाति आबादी वाले ग्रामीण गांवों में सड़क, जल, स्कूल, स्वास्थ्य केंद्र और स्वच्छता का समग्र विकास।",
+    "category": "housing",
+    "tags": [
+      "model village",
+      "rural development",
+      "sc community",
+      "village infrastructure",
+      "rural area"
+    ],
+    "tags_hi": [
+      "आदर्श ग्राम",
+      "ग्रामीण विकास",
+      "अनुसूचित जाति",
+      "ग्राम बुनियादी ढांचा",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "sc"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Rs.20 lakh additional gap-filling grant per village for roads, solar lighting, drinking water, and community halls",
+    "benefits_hi": "प्रति गांव ₹20 लाख का अतिरिक्त विकास अनुदान पक्की सड़क, सोलर लाइट और सामुदायिक भवन हेतु",
+    "application_url": "https://pmagy.gov.in",
+    "ministry": "Ministry of Social Justice & Empowerment",
+    "ministry_hi": "सामाजिक न्याय एवं अधिकारिता मंत्रालय",
+    "launched_year": 2009,
+    "is_active": true
+  },
+  {
+    "title": "Sansad Adarsh Gram Yojana (SAGY)",
+    "title_hi": "सांसद आदर्श ग्राम योजना",
+    "slug": "sansad-adarsh-gram-yojana",
+    "description": "Empowers Members of Parliament to identify and develop model village panchayats through community participation and scheme convergence.",
+    "description_hi": "संसदीय सांसदों द्वारा अपने क्षेत्र के गांवों को गोद लेकर शिक्षा, स्वास्थ्य, आजीविका और पर्यावरण का समग्र विकास करना।",
+    "category": "housing",
+    "tags": [
+      "model village",
+      "sagy",
+      "panchayat",
+      "rural development",
+      "community",
+      "rural area"
+    ],
+    "tags_hi": [
+      "सांसद आदर्श ग्राम",
+      "पंचायत",
+      "ग्रामीण विकास",
+      "सामुदायिक विकास",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Total village transformation into a smart, self-sufficient Adarsh Gram with high living standards",
+    "benefits_hi": "गोद लिए गए गांव का संपूर्ण बुनियादी, सामाजिक और आर्थिक कायाकल्प",
+    "application_url": "https://saanjhi.gov.in",
+    "ministry": "Ministry of Rural Development",
+    "ministry_hi": "ग्रामीण विकास मंत्रालय",
+    "launched_year": 2014,
+    "is_active": true
+  },
+  {
+    "title": "Jawahar Navodaya Vidyalaya (JNV)",
+    "title_hi": "जवाहर नवोदय विद्यालय योजना",
+    "slug": "navodaya-vidyalaya-scheme",
+    "description": "Provides high quality modern residential education (Class 6-12) completely free of cost to talented rural children.",
+    "description_hi": "ग्रामीण क्षेत्रों के मेधावी छात्र-छात्राओं को कक्षा 6 से 12 तक सीबीएसई बोर्ड की निःशुल्क आवासीय गुणवत्तापूर्ण शिक्षा।",
+    "category": "education",
+    "tags": [
+      "rural students",
+      "free residential school",
+      "merit",
+      "jnv",
+      "education",
+      "rural area"
+    ],
+    "tags_hi": [
+      "ग्रामीण छात्र",
+      "नवोदय",
+      "मुफ्त आवासीय स्कूल",
+      "मेधावी",
+      "शिक्षा",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 9,
+      "max_age": 13,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "student"
+      ],
+      "state": "all"
+    },
+    "benefits": "100% free boarding, lodging, uniform, textbooks, and computer education for rural students",
+    "benefits_hi": "ग्रामीण बच्चों के लिए रहने, खाने, ड्रेस, पुस्तकों और आधुनिक कंप्यूटर शिक्षा की 100% मुफ्त व्यवस्था",
+    "application_url": "https://navodaya.gov.in",
+    "ministry": "Ministry of Education",
+    "ministry_hi": "शिक्षा मंत्रालय",
+    "launched_year": 1986,
+    "is_active": true
+  },
+  {
+    "title": "Eklavya Model Residential Schools (EMRS)",
+    "title_hi": "एकलव्य आदर्श आवासीय विद्यालय (EMRS)",
+    "slug": "eklavya-model-residential-schools",
+    "description": "Quality middle and high-level education for Scheduled Tribe (ST) students in remote rural tribal blocks to enable higher education and employment.",
+    "description_hi": "दूरदराज के ग्रामीण आदिवासी क्षेत्रों के मेधावी छात्र-छात्राओं को उत्कृष्ट निःशुल्क आवासीय शिक्षा प्रदान करने की योजना।",
+    "category": "education",
+    "tags": [
+      "tribal students",
+      "residential school",
+      "free education",
+      "rural",
+      "emrs",
+      "rural area"
+    ],
+    "tags_hi": [
+      "आदिवासी छात्र",
+      "एकलव्य विद्यालय",
+      "आवासीय स्कूल",
+      "मुफ्त शिक्षा",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 10,
+      "max_age": 18,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "st"
+      ],
+      "occupation": [
+        "student"
+      ],
+      "state": "all"
+    },
+    "benefits": "Completely free modern education, sports training, food, and lodging for tribal students",
+    "benefits_hi": "आदिवासी बच्चों के लिए भोजन, आवास, किताबें, खेलकूद प्रशिक्षण और सीबीएसई शिक्षा पूरी तरह मुफ्त",
+    "application_url": "https://emrs.tribal.gov.in",
+    "ministry": "Ministry of Tribal Affairs",
+    "ministry_hi": "जनजातीय कार्य मंत्रालय",
+    "launched_year": 1997,
+    "is_active": true
+  },
+  {
+    "title": "Kasturba Gandhi Balika Vidyalaya (KGBV)",
+    "title_hi": "कस्तूरबा गांधी बालिका विद्यालय",
+    "slug": "kasturba-gandhi-balika-vidyalaya",
+    "description": "Residential upper primary and secondary schools for girls belonging predominantly to SC, ST, OBC, and minority communities in educationally backward rural blocks.",
+    "description_hi": "शिक्षा की दृष्टि से पिछड़े ग्रामीण ब्लॉकों में वंचित वर्ग की बालिकाओं के लिए निःशुल्क आवासीय माध्यमिक विद्यालय।",
+    "category": "education",
+    "tags": [
+      "girl child",
+      "rural girls",
+      "free residential school",
+      "sc st obc",
+      "education",
+      "rural area"
+    ],
+    "tags_hi": [
+      "बालिका",
+      "ग्रामीण बेटियां",
+      "कस्तूरबा विद्यालय",
+      "मुफ्त स्कूल",
+      "शिक्षा",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 10,
+      "max_age": 18,
+      "gender": "female",
+      "income_limit": null,
+      "caste": [
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "occupation": [
+        "student"
+      ],
+      "state": "all"
+    },
+    "benefits": "Free residential schooling, vocational training, meals, and uniforms for disadvantaged rural girls",
+    "benefits_hi": "वंचित ग्रामीण बालिकाओं के लिए मुफ्त आवास, भोजन, यूनिफॉर्म, किताबें और व्यावसायिक कौशल प्रशिक्षण",
+    "application_url": "https://samagra.education.gov.in",
+    "ministry": "Ministry of Education",
+    "ministry_hi": "शिक्षा मंत्रालय",
+    "launched_year": 2004,
+    "is_active": true
+  },
+  {
+    "title": "National Means-cum-Merit Scholarship (NMMSS)",
+    "title_hi": "राष्ट्रीय साधन-सह-योग्यता छात्रवृत्ति (NMMSS)",
+    "slug": "national-means-cum-merit-scholarship",
+    "description": "Provides scholarships to meritorious students of economically weaker sections to arrest dropouts at class 8 and encourage secondary schooling.",
+    "description_hi": "आर्थिक रूप से कमजोर ग्रामीण व शहरी मेधावी छात्रों को 8वीं के बाद पढ़ाई जारी रखने के लिए प्रति वर्ष ₹12,000 की छात्रवृत्ति।",
+    "category": "education",
+    "tags": [
+      "scholarship",
+      "merit",
+      "rural students",
+      "school dropout",
+      "financial aid",
+      "rural area"
+    ],
+    "tags_hi": [
+      "छात्रवृत्ति",
+      "मेधावी छात्र",
+      "ग्रामीण छात्र",
+      "स्कूल",
+      "वित्तीय सहायता",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 12,
+      "max_age": 18,
+      "gender": "all",
+      "income_limit": 350000,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "student"
+      ],
+      "state": "all"
+    },
+    "benefits": "Rs.12,000 per year scholarship (Class 9 to 12) deposited directly into student's bank account",
+    "benefits_hi": "कक्षा 9 से 12 तक प्रति वर्ष ₹12,000 (कुल ₹48,000) सीधे छात्र के बैंक खाते में",
+    "application_url": "https://scholarships.gov.in",
+    "ministry": "Ministry of Education",
+    "ministry_hi": "शिक्षा मंत्रालय",
+    "launched_year": 2008,
+    "is_active": true
+  },
+  {
+    "title": "PM SHRI Schools Scheme",
+    "title_hi": "पीएम श्री स्कूल योजना",
+    "slug": "pm-shri-schools",
+    "description": "Centrally sponsored scheme to upgrade 14,500 government schools into modern green schools delivering NEP 2020 pedagogical excellence in rural and urban blocks.",
+    "description_hi": "देश के 14,500 से अधिक सरकारी स्कूलों को राष्ट्रीय शिक्षा नीति 2020 के तहत आधुनिक मॉडल स्कूलों के रूप में अपग्रेड करना।",
+    "category": "education",
+    "tags": [
+      "nep 2020",
+      "smart school",
+      "rural education",
+      "stem lab",
+      "green school",
+      "rural area"
+    ],
+    "tags_hi": [
+      "पीएम श्री",
+      "स्मार्ट स्कूल",
+      "ग्रामीण शिक्षा",
+      "प्रयोगशाला",
+      "आधुनिक स्कूल",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 5,
+      "max_age": 18,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "student"
+      ],
+      "state": "all"
+    },
+    "benefits": "High-tech smart classrooms, digital libraries, advanced science/math labs, and sports infrastructure",
+    "benefits_hi": "स्मार्ट क्लासरूम, डिजिटल लाइब्रेरी, आधुनिक विज्ञान-रोबोटिक्स लैब और खेल सुविधाएं",
+    "application_url": "https://pmshrischools.education.gov.in",
+    "ministry": "Ministry of Education",
+    "ministry_hi": "शिक्षा मंत्रालय",
+    "launched_year": 2022,
+    "is_active": true
+  },
+  {
+    "title": "PM eVidya Initiative",
+    "title_hi": "पीएम ई-विद्या कार्यक्रम",
+    "slug": "pm-e-vidya",
+    "description": "Comprehensive digital education programme offering 200 dedicated DTH TV channels for Class 1-12 to enable learning for rural children without internet.",
+    "description_hi": "बिना इंटरनेट वाले ग्रामीण क्षेत्रों के बच्चों के लिए 200 समर्पित टीवी चैनलों और रेडियो द्वारा कक्षा 1 से 12 की निःशुल्क शिक्षा।",
+    "category": "education",
+    "tags": [
+      "digital education",
+      "rural students",
+      "tv learning",
+      "free education",
+      "swayam prabha",
+      "rural area"
+    ],
+    "tags_hi": [
+      "डिजिटल शिक्षा",
+      "ग्रामीण छात्र",
+      "टीवी चैनल",
+      "निःशुल्क शिक्षा",
+      "ई-विद्या",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 5,
+      "max_age": 18,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "student"
+      ],
+      "state": "all"
+    },
+    "benefits": "Free 24x7 educational telecasts in regional languages for every class across all rural areas",
+    "benefits_hi": "क्षेत्रीय भाषाओं में 24 घंटे निःशुल्क शैक्षिक प्रसारण, डिजिटल पाठ्य सामग्री और ब्रेल सामग्री",
+    "application_url": "https://pmevidya.education.gov.in",
+    "ministry": "Ministry of Education",
+    "ministry_hi": "शिक्षा मंत्रालय",
+    "launched_year": 2020,
+    "is_active": true
+  },
+  {
+    "title": "Ayushman Arogya Mandir",
+    "title_hi": "आयुष्मान आरोग्य मंदिर (हेल्थ एंड वेलनेस सेंटर)",
+    "slug": "ayushman-arogya-mandir",
+    "description": "Transforms sub-centres and primary health centres in rural panchayats into comprehensive wellness clinics delivering free diagnosis, medicines, and tele-consultation.",
+    "description_hi": "ग्रामीण ग्राम पंचायतों में प्राथमिक स्वास्थ्य केंद्रों को आरोग्य मंदिर बनाकर निःशुल्क दवाइयां, जांच और टेली-कंसल्टेशन देना।",
+    "category": "health",
+    "tags": [
+      "rural clinic",
+      "ayushman",
+      "panchayat health",
+      "telemedicine",
+      "free medicines",
+      "rural area"
+    ],
+    "tags_hi": [
+      "आरोग्य मंदिर",
+      "ग्रामीण क्लीनिक",
+      "पंचायत स्वास्थ्य",
+      "टेलीमेडिसिन",
+      "मुफ्त दवा",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "105 essential free medicines, 14 diagnostic tests, maternal care, and e-Sanjeevani specialist tele-consultation in villages",
+    "benefits_hi": "गांवों में 105 जरूरी मुफ्त दवाइयां, 14 मुफ्त जांचें और ई-संजीवनी द्वारा बड़े डॉक्टरों से मुफ्त ऑनलाइन परामर्श",
+    "application_url": "https://ab-hwc.nhp.gov.in",
+    "ministry": "Ministry of Health & Family Welfare",
+    "ministry_hi": "स्वास्थ्य एवं परिवार कल्याण मंत्रालय",
+    "launched_year": 2018,
+    "is_active": true
+  },
+  {
+    "title": "Janani Suraksha Yojana (JSY)",
+    "title_hi": "जननी सुरक्षा योजना (JSY)",
+    "slug": "janani-suraksha-yojana",
+    "description": "Safe motherhood intervention promoting institutional delivery among poor pregnant women in rural areas through cash assistance.",
+    "description_hi": "ग्रामीण क्षेत्रों में मातृ और शिशु मृत्यु दर घटाने के लिए सरकारी स्वास्थ्य केंद्रों पर संस्थागत प्रसव कराने पर नकद सहायता।",
+    "category": "health",
+    "tags": [
+      "maternity",
+      "rural delivery",
+      "pregnant women",
+      "cash assistance",
+      "mother",
+      "rural area"
+    ],
+    "tags_hi": [
+      "मातृत्व",
+      "ग्रामीण प्रसव",
+      "गर्भवती महिला",
+      "नकद सहायता",
+      "जननी",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 19,
+      "max_age": null,
+      "gender": "female",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Direct cash assistance of Rs.1,400 to rural mothers and Rs.300 incentive to ASHA worker",
+    "benefits_hi": "ग्रामीण गर्भवती महिलाओं को सरकारी अस्पताल में प्रसव कराने पर ₹1,400 नकद सहायता और आशा प्रोत्साहन",
+    "application_url": "https://nhm.gov.in",
+    "ministry": "Ministry of Health & Family Welfare",
+    "ministry_hi": "स्वास्थ्य एवं परिवार कल्याण मंत्रालय",
+    "launched_year": 2005,
+    "is_active": true
+  },
+  {
+    "title": "Janani Shishu Suraksha Karyakram (JSSK)",
+    "title_hi": "जननी शिशु सुरक्षा कार्यक्रम (JSSK)",
+    "slug": "janani-shishu-suraksha-karyakram",
+    "description": "Guarantees completely free, cashless delivery, C-section, free drugs, diagnostics, blood, and transport from home to hospital for rural mothers and sick newborns.",
+    "description_hi": "सरकारी अस्पतालों में गर्भवती महिलाओं और बीमार नवजातों के लिए प्रसव, ऑपरेशन, दवाइयां, जांच, भोजन और एम्बुलेंस पूरी तरह मुफ्त।",
+    "category": "health",
+    "tags": [
+      "free delivery",
+      "rural hospital",
+      "pregnant",
+      "newborn",
+      "free transport",
+      "rural area"
+    ],
+    "tags_hi": [
+      "मुफ्त प्रसव",
+      "ग्रामीण अस्पताल",
+      "गर्भवती",
+      "नवजात",
+      "मुफ्त एम्बुलेंस",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "female",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Zero out-of-pocket expenditure: free normal/c-section delivery, free diet, free diagnostics, and free transport",
+    "benefits_hi": "बिना किसी खर्च के मुफ्त सामान्य व सिजेरियन प्रसव, मुफ्त दवाएं, पौष्टिक भोजन और घर से अस्पताल तक मुफ्त वाहन",
+    "application_url": "https://nhm.gov.in",
+    "ministry": "Ministry of Health & Family Welfare",
+    "ministry_hi": "स्वास्थ्य एवं परिवार कल्याण मंत्रालय",
+    "launched_year": 2011,
+    "is_active": true
+  },
+  {
+    "title": "Mission Indradhanush (Universal Immunization)",
+    "title_hi": "मिशन इंद्रधनुष (सार्वभौमिक टीकाकरण)",
+    "slug": "mission-indradhanush",
+    "description": "Special nationwide vaccination drive to achieve full immunization coverage for children up to 2 years and pregnant women in hard-to-reach rural habitations.",
+    "description_hi": "दूरदराज के ग्रामीण व दुर्गम क्षेत्रों में 2 वर्ष तक के बच्चों और गर्भवती महिलाओं को 12 जानलेवा बीमारियों से मुफ्त टीकाकरण।",
+    "category": "health",
+    "tags": [
+      "vaccination",
+      "immunization",
+      "rural children",
+      "infant health",
+      "free vaccines",
+      "rural area"
+    ],
+    "tags_hi": [
+      "टीकाकरण",
+      "इंद्रधनुष",
+      "ग्रामीण बच्चे",
+      "शिशु स्वास्थ्य",
+      "मुफ्त टीका",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": 2,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Free life-saving vaccines protecting children against polio, measles, rubella, hepatitis B, tetanus, and pneumonia",
+    "benefits_hi": "पोलियो, खसरा, रूबेला, हेपेटाइटिस बी, टिटनेस जैसी 12 जानलेवा बीमारियों से जीवन रक्षक मुफ्त टीके",
+    "application_url": "https://www.mohfw.gov.in",
+    "ministry": "Ministry of Health & Family Welfare",
+    "ministry_hi": "स्वास्थ्य एवं परिवार कल्याण मंत्रालय",
+    "launched_year": 2014,
+    "is_active": true
+  },
+  {
+    "title": "Rashtriya Bal Swasthya Karyakram (RBSK)",
+    "title_hi": "राष्ट्रीय बाल स्वास्थ्य कार्यक्रम (RBSK)",
+    "slug": "rashtriya-bal-swasthya-karyakram",
+    "description": "Mobile rural health teams screen children (0-18 years) at anganwadis and government schools for birth defects, deficiencies, diseases, and developmental delays.",
+    "description_hi": "मोबाइल स्वास्थ्य टीमों द्वारा ग्रामीण आंगनवाड़ियों और स्कूलों में बच्चों की 4D बीमारियों की जांच व बड़े अस्पतालों में मुफ्त इलाज।",
+    "category": "health",
+    "tags": [
+      "child health",
+      "rural screening",
+      "anganwadi",
+      "free surgery",
+      "school health",
+      "rural area"
+    ],
+    "tags_hi": [
+      "बाल स्वास्थ्य",
+      "ग्रामीण जांच",
+      "आंगनवाड़ी",
+      "मुफ्त सर्जरी",
+      "स्कूल",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": 18,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "student"
+      ],
+      "state": "all"
+    },
+    "benefits": "Free early identification and 100% free surgical/medical management including congenital heart defects and cleft lip",
+    "benefits_hi": "जन्मजात विकारों, कटे होंठ, दिल की बीमारियों की पहचान और टर्शियरी अस्पतालों में 100% मुफ्त सर्जरी व उपचार",
+    "application_url": "https://rbsk.gov.in",
+    "ministry": "Ministry of Health & Family Welfare",
+    "ministry_hi": "स्वास्थ्य एवं परिवार कल्याण मंत्रालय",
+    "launched_year": 2013,
+    "is_active": true
+  },
+  {
+    "title": "Ni-kshay Poshan Yojana (TB Support)",
+    "title_hi": "निक्षय पोषण योजना (टीबी पोषण सहायता)",
+    "slug": "national-tuberculosis-elimination-nikshay-poshan",
+    "description": "Direct Benefit Transfer (DBT) scheme providing monthly financial assistance for nutritional support to all notified tuberculosis patients across India.",
+    "description_hi": "सभी टीबी (तपेदिक) मरीजों को पौष्टिक आहार हेतु इलाज की पूरी अवधि तक सीधे बैंक खाते में प्रति माह ₹500 की वित्तीय सहायता।",
+    "category": "health",
+    "tags": [
+      "tuberculosis",
+      "tb patient",
+      "dbt",
+      "nutrition",
+      "health support"
+    ],
+    "tags_hi": [
+      "टीबी",
+      "तपेदिक",
+      "निक्षय",
+      "डीबीटी",
+      "पोषण सहायता"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Rs.500 per month directly into bank account for the entire duration of anti-TB treatment",
+    "benefits_hi": "टीबी इलाज चलने तक मरीज के बैंक खाते में ₹500 प्रति माह की सीधी पोषण सहायता राशि",
+    "application_url": "https://nikshay.in",
+    "ministry": "Ministry of Health & Family Welfare",
+    "ministry_hi": "स्वास्थ्य एवं परिवार कल्याण मंत्रालय",
+    "launched_year": 2018,
+    "is_active": true
+  },
+  {
+    "title": "PM National Dialysis Programme",
+    "title_hi": "प्रधानमंत्री राष्ट्रीय डायलिसिस कार्यक्रम",
+    "slug": "pradhan-mantri-national-dialysis-programme",
+    "description": "Provides free life-saving hemodialysis and peritoneal dialysis services to BPL rural and urban patients at district hospitals under PPP mode.",
+    "description_hi": "गुर्दे (किडनी) की बीमारी से पीड़ित गरीब मरीजों को जिला अस्पतालों में बिल्कुल मुफ्त डायलिसिस की सुविधा।",
+    "category": "health",
+    "tags": [
+      "dialysis",
+      "kidney patient",
+      "free hospital care",
+      "bpl",
+      "district hospital",
+      "rural area"
+    ],
+    "tags_hi": [
+      "डायलिसिस",
+      "किडनी",
+      "मुफ्त अस्पताल",
+      "बीपीएल",
+      "जिला अस्पताल",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": 100000,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "100% free regular dialysis for BPL card holders at district level government centres",
+    "benefits_hi": "बीपीएल परिवारों के किडनी मरीजों को जिला अस्पतालों में 100% निःशुल्क डायलिसिस",
+    "application_url": "https://nhm.gov.in",
+    "ministry": "Ministry of Health & Family Welfare",
+    "ministry_hi": "स्वास्थ्य एवं परिवार कल्याण मंत्रालय",
+    "launched_year": 2016,
+    "is_active": true
+  },
+  {
+    "title": "Lakhpati Didi Initiative",
+    "title_hi": "लखपति दीदी योजना",
+    "slug": "lakhpati-didi-initiative",
+    "description": "Transforms 3 crore rural Self Help Group (SHG) women into micro-entrepreneurs earning a sustainable annual income of at least Rs.1 lakh.",
+    "description_hi": "ग्रामीण स्वयं सहायता समूहों (SHG) की 3 करोड़ महिलाओं को विभिन्न आजीविकाओं में प्रशिक्षित कर सालाना ₹1 लाख से अधिक कमाने योग्य बनाना।",
+    "category": "women",
+    "tags": [
+      "rural women",
+      "shg",
+      "micro enterprise",
+      "livelihood",
+      "lakhpati didi",
+      "rural area"
+    ],
+    "tags_hi": [
+      "लखपति दीदी",
+      "ग्रामीण महिला",
+      "स्वयं सहायता समूह",
+      "आजीविका",
+      "स्वरोजगार",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 60,
+      "gender": "female",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Free skill training (LED assembly, plumbing, agriculture, drone pilot), bank credit linkages, and market access",
+    "benefits_hi": "कौशल प्रशिक्षण, बिना ब्याज आसान बैंक ऋण, बाजार लिंकेज और वार्षिक ₹1 लाख+ की स्थायी आमदनी",
+    "application_url": "https://aajeevika.gov.in",
+    "ministry": "Ministry of Rural Development",
+    "ministry_hi": "ग्रामीण विकास मंत्रालय",
+    "launched_year": 2023,
+    "is_active": true
+  },
+  {
+    "title": "Namo Drone Didi Scheme",
+    "title_hi": "नमो ड्रोन दीदी योजना",
+    "slug": "drone-didi-scheme",
+    "description": "Empowers 15,000 women Self Help Groups by providing agricultural drones and pilot training for spraying fertilizers and pesticides in rural farms.",
+    "description_hi": "15,000 महिला स्वयं सहायता समूहों को कृषि ड्रोन और पायलट ट्रेनिंग देकर गांवों में खाद-कीटनाशक छिड़काव की आधुनिक सेवा शुरू कराना।",
+    "category": "women",
+    "tags": [
+      "drone",
+      "drone didi",
+      "rural women",
+      "agriculture technology",
+      "shg",
+      "rural area"
+    ],
+    "tags_hi": [
+      "ड्रोन दीदी",
+      "कृषि ड्रोन",
+      "ग्रामीण महिला",
+      "तकनीक",
+      "स्वयं सहायता समूह",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 55,
+      "gender": "female",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "80% government grant (up to Rs.8 lakh) on drone package and 15 days certified drone pilot training",
+    "benefits_hi": "ड्रोन पैकेज पर 80% सरकारी अनुदान (अधिकतम ₹8 लाख) और 15 दिनों का प्रमाणित ड्रोन पायलट प्रशिक्षण",
+    "application_url": "https://agricoop.gov.in",
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "ministry_hi": "कृषि एवं किसान कल्याण मंत्रालय",
+    "launched_year": 2023,
+    "is_active": true
+  },
+  {
+    "title": "Mahila Kisan Sashaktikaran Pariyojana (MKSP)",
+    "title_hi": "महिला किसान सशक्तिकरण परियोजना",
+    "slug": "mahila-kisan-sashaktikaran-pariyojana",
+    "description": "Empowers rural women in agriculture through agro-ecological practices, non-timber forest produce, and community-managed sustainable agriculture.",
+    "description_hi": "ग्रामीण महिला किसानों को जैविक व टिकाऊ कृषि, बीज बैंक और पशुपालन में तकनीकी प्रशिक्षण देकर कृषि में उनकी भूमिका सुदृढ़ करना।",
+    "category": "women",
+    "tags": [
+      "women farmer",
+      "rural women",
+      "organic farming",
+      "sustainable agriculture",
+      "shg",
+      "rural area"
+    ],
+    "tags_hi": [
+      "महिला किसान",
+      "ग्रामीण महिला",
+      "जैविक खेती",
+      "सशक्तिकरण",
+      "कृषि",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "female",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "farmer"
+      ],
+      "state": "all"
+    },
+    "benefits": "Up to 75% funding for women farmer group projects, organic farming inputs, and skill enhancement",
+    "benefits_hi": "महिला किसान समूहों को 75% सरकारी वित्तपोषण, जैविक इनपुट और स्थायी कृषि प्रशिक्षण",
+    "application_url": "https://aajeevika.gov.in/en/content/mahila-kisan-sashaktikaran-pariyojana",
+    "ministry": "Ministry of Rural Development",
+    "ministry_hi": "ग्रामीण विकास मंत्रालय",
+    "launched_year": 2011,
+    "is_active": true
+  },
+  {
+    "title": "Mission Shakti",
+    "title_hi": "मिशन शक्ति",
+    "slug": "mission-shakti-sambal-shakti-sadan",
+    "description": "Integrated umbrella scheme for safety, security, and empowerment of women including One Stop Centres, Women Helpline (181), and Shakti Sadan.",
+    "description_hi": "महिलाओं की सुरक्षा, संरक्षण और सशक्तिकरण के लिए वन स्टॉप सेंटर, महिला हेल्पलाइन 181, बेटी बचाओ और शक्ति सदन का एकीकृत मिशन।",
+    "category": "women",
+    "tags": [
+      "women safety",
+      "one stop centre",
+      "helpline 181",
+      "shelter",
+      "empowerment"
+    ],
+    "tags_hi": [
+      "मिशन शक्ति",
+      "महिला सुरक्षा",
+      "वन स्टॉप सेंटर",
+      "हेल्पलाइन 181",
+      "सशक्तिकरण"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "female",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "24x7 emergency response, legal aid, medical assistance, temporary shelter, and psychological counselling",
+    "benefits_hi": "पीड़ित महिलाओं को 24x7 आपातकालीन सहायता, मुफ्त कानूनी सलाह, चिकित्सा सहायता और सुरक्षित आश्रय",
+    "application_url": "https://wcd.nic.in",
+    "ministry": "Ministry of Women & Child Development",
+    "ministry_hi": "महिला एवं बाल विकास मंत्रालय",
+    "launched_year": 2021,
+    "is_active": true
+  },
+  {
+    "title": "Mahila E-Haat",
+    "title_hi": "महिला ई-हाट",
+    "slug": "mahila-e-haat",
+    "description": "Bilingual direct online marketing platform for rural women entrepreneurs, self-help groups, and NGOs to showcase and sell their handmade products.",
+    "description_hi": "ग्रामीण महिला उद्यमियों, स्वयं सहायता समूहों और महिला कारीगरों को अपने हस्तशिल्प और उत्पाद सीधे ऑनलाइन बेचने का राष्ट्रीय मंच।",
+    "category": "women",
+    "tags": [
+      "online market",
+      "rural women",
+      "handicrafts",
+      "women entrepreneur",
+      "ecommerce",
+      "rural area"
+    ],
+    "tags_hi": [
+      "महिला ई-हाट",
+      "ग्रामीण महिला",
+      "हस्तशिल्प",
+      "महिला उद्यमी",
+      "ऑनलाइन बिक्री",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "female",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "artisan",
+        "business"
+      ],
+      "state": "all"
+    },
+    "benefits": "Zero fee online cataloguing, direct access to nationwide buyers, and 100% payment without middlemen",
+    "benefits_hi": "बिना किसी कमीशन या शुल्क के उत्पादों की ऑनलाइन लिस्टिंग और सीधे बैंक खाते में 100% भुगतान",
+    "application_url": "https://mahilaehaat-rmk.gov.in",
+    "ministry": "Ministry of Women & Child Development",
+    "ministry_hi": "महिला एवं बाल विकास मंत्रालय",
+    "launched_year": 2016,
+    "is_active": true
+  },
+  {
+    "title": "Rashtriya Mahila Kosh (RMK)",
+    "title_hi": "राष्ट्रीय महिला कोष",
+    "slug": "rashtriya-mahila-kosh",
+    "description": "National credit fund providing micro-finance loans without collateral to poor rural and semi-urban women for small businesses and livelihoods.",
+    "description_hi": "गरीब और वंचित ग्रामीण महिलाओं को बिना किसी जमानत के छोटे व्यापार और आजीविका शुरू करने हेतु सूक्ष्म ऋण सुविधा।",
+    "category": "financial",
+    "tags": [
+      "microfinance",
+      "women loan",
+      "rural credit",
+      "no collateral",
+      "shg",
+      "rural area"
+    ],
+    "tags_hi": [
+      "महिला कोष",
+      "सूक्ष्म ऋण",
+      "ग्रामीण महिला ऋण",
+      "बिना गारंटी",
+      "आजीविका",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "female",
+      "income_limit": 150000,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "self-employed"
+      ],
+      "state": "all"
+    },
+    "benefits": "Affordable micro-credit loans up to Rs.50,000 for income generating rural activities",
+    "benefits_hi": "आय सृजन गतिविधियों हेतु बिना गारंटी ₹50,000 तक का आसान और कम ब्याज दर पर सूक्ष्म ऋण",
+    "application_url": "https://rmk.nic.in",
+    "ministry": "Ministry of Women & Child Development",
+    "ministry_hi": "महिला एवं बाल विकास मंत्रालय",
+    "launched_year": 1993,
+    "is_active": true
+  },
+  {
+    "title": "PM Employment Generation Programme (PMEGP)",
+    "title_hi": "प्रधानमंत्री रोजगार सृजन कार्यक्रम (PMEGP)",
+    "slug": "prime-ministers-employment-generation-programme",
+    "description": "Major credit-linked subsidy programme to generate self-employment in rural and urban areas by setting up micro-enterprises in manufacturing and services.",
+    "description_hi": "ग्रामीण व शहरी क्षेत्रों में नए विनिर्माण और सेवा उद्योग लगाने के लिए बैंक ऋण पर 35% तक की भारी सरकारी सब्सिडी।",
+    "category": "employment",
+    "tags": [
+      "self employment",
+      "rural business",
+      "subsidy",
+      "bank loan",
+      "micro enterprise",
+      "rural area"
+    ],
+    "tags_hi": [
+      "रोजगार सृजन",
+      "ग्रामीण उद्योग",
+      "सब्सिडी",
+      "बैंक लोन",
+      "स्वरोजगार",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "entrepreneur",
+        "unemployed"
+      ],
+      "state": "all"
+    },
+    "benefits": "Up to Rs.50 lakh loan for manufacturing and Rs.20 lakh for service units with 25% to 35% government subsidy in rural areas",
+    "benefits_hi": "ग्रामीण क्षेत्रों में उद्योग लगाने पर कुल लागत का 25% से 35% तक सरकारी सब्सिडी (अधिकतम ₹50 लाख तक लोन)",
+    "application_url": "https://kviconline.gov.in/pmegpeportal",
+    "ministry": "Ministry of Micro, Small & Medium Enterprises",
+    "ministry_hi": "सूक्ष्म, लघु एवं मध्यम उद्यम मंत्रालय",
+    "launched_year": 2008,
+    "is_active": true
+  },
+  {
+    "title": "Aspirational Districts Programme",
+    "title_hi": "आकांक्षी जिला कार्यक्रम",
+    "slug": "aspiration-districts-programme",
+    "description": "NITI Aayog initiative to rapidly transform 112 most underdeveloped rural districts across health, nutrition, education, agriculture, water, and infrastructure.",
+    "description_hi": "देश के 112 सबसे पिछड़े ग्रामीण जिलों में स्वास्थ्य, पोषण, शिक्षा, कृषि, जल संसाधन और वित्तीय समावेशन का तीव्र विकास।",
+    "category": "housing",
+    "tags": [
+      "aspirational district",
+      "rural transformation",
+      "niti aayog",
+      "development",
+      "rural area"
+    ],
+    "tags_hi": [
+      "आकांक्षी जिला",
+      "ग्रामीण विकास",
+      "नीति आयोग",
+      "बुनियादी ढांचा",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Priority scheme allocation, digital monitoring, and extra development grants to transform backward rural blocks",
+    "benefits_hi": "पिछड़े ग्रामीण जिलों में शत-प्रतिशत सरकारी योजनाओं का लाभ, अतिरिक्त विकास फंड और बुनियादी सुविधाएं",
+    "application_url": "https://www.niti.gov.in",
+    "ministry": "NITI Aayog",
+    "ministry_hi": "नीति आयोग",
+    "launched_year": 2018,
+    "is_active": true
+  },
+  {
+    "title": "SPM Rurban Mission",
+    "title_hi": "श्यामा प्रसाद मुखर्जी रूर्बन मिशन",
+    "slug": "rurban-mission",
+    "description": "Develops 300 rural cluster hubs with city-like economic activities, digital connectivity, healthcare, and agro-processing while preserving rural soul.",
+    "description_hi": "ग्रामीण आत्मा और शहरी सुविधाओं के साथ 300 ग्रामीण क्लस्टरों में कौशल, पाइप जल, पक्की सड़कें और कृषि प्रसंस्करण हब बनाना।",
+    "category": "housing",
+    "tags": [
+      "rurban",
+      "rural cluster",
+      "smart village",
+      "infrastructure",
+      "growth"
+    ],
+    "tags_hi": [
+      "रूर्बन मिशन",
+      "ग्रामीण क्लस्टर",
+      "स्मार्ट गांव",
+      "बुनियादी ढांचा"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Urban-standard infrastructure, 24x7 water supply, waste management, and agro-industrial clusters in rural areas",
+    "benefits_hi": "ग्रामीण क्षेत्रों में शहरों जैसी पक्की सड़कें, 24x7 पेयजल, कचरा प्रबंधन और स्थानीय रोजगार अवसर",
+    "application_url": "https://rurban.gov.in",
+    "ministry": "Ministry of Rural Development",
+    "ministry_hi": "ग्रामीण विकास मंत्रालय",
+    "launched_year": 2016,
+    "is_active": true
+  },
+  {
+    "title": "Indira Gandhi National Widow Pension",
+    "title_hi": "इंदिरा गांधी राष्ट्रीय विधवा पेंशन योजना",
+    "slug": "national-social-assistance-programme-widow-pension",
+    "description": "Provides financial assistance and social security through monthly pensions to widows aged 40-79 years belonging to below poverty line households.",
+    "description_hi": "गरीबी रेखा से नीचे (BPL) जीवन यापन करने वाली 40 से 79 वर्ष की विधवा महिलाओं को नियमित मासिक सामाजिक सुरक्षा पेंशन।",
+    "category": "elderly",
+    "tags": [
+      "widow pension",
+      "bpl women",
+      "social security",
+      "monthly pension",
+      "nsap"
+    ],
+    "tags_hi": [
+      "विधवा पेंशन",
+      "बीपीएल महिला",
+      "सामाजिक सुरक्षा",
+      "मासिक पेंशन",
+      "महिला"
+    ],
+    "eligibility": {
+      "min_age": 40,
+      "max_age": 79,
+      "gender": "female",
+      "income_limit": 100000,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Monthly pension of Rs.300 to Rs.1,000 (with state contribution) deposited directly into bank account",
+    "benefits_hi": "बीपीएल विधवा महिलाओं के बैंक खाते में प्रति माह ₹300 से ₹1,000 की नियमित पेंशन",
+    "application_url": "https://nsap.nic.in",
+    "ministry": "Ministry of Rural Development",
+    "ministry_hi": "ग्रामीण विकास मंत्रालय",
+    "launched_year": 2009,
+    "is_active": true
+  },
+  {
+    "title": "National Family Benefit Scheme (NFBS)",
+    "title_hi": "राष्ट्रीय परिवार लाभ योजना",
+    "slug": "national-family-benefit-scheme",
+    "description": "One-time lump sum cash assistance to BPL households upon the demise of the primary breadwinner (aged 18-59 years) to prevent immediate poverty shock.",
+    "description_hi": "गरीब बीपीएल परिवार के मुख्य कमाने वाले मुखिया की मृत्यु होने पर परिवार को तत्काल आर्थिक संबल हेतु एकमुश्त वित्तीय सहायता।",
+    "category": "financial",
+    "tags": [
+      "family benefit",
+      "death grant",
+      "bpl",
+      "breadwinner",
+      "rural aid",
+      "rural area"
+    ],
+    "tags_hi": [
+      "परिवार लाभ",
+      "मृत्यु सहायता",
+      "बीपीएल",
+      "मुखिया",
+      "एकमुश्त सहायता",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 59,
+      "gender": "all",
+      "income_limit": 100000,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "One-time lump sum assistance of Rs.20,000 directly transferred to the surviving head of the household",
+    "benefits_hi": "कमाने वाले मुखिया की मृत्यु पर आश्रित परिवार को ₹20,000 की एकमुश्त नकद सहायता",
+    "application_url": "https://nsap.nic.in",
+    "ministry": "Ministry of Rural Development",
+    "ministry_hi": "ग्रामीण विकास मंत्रालय",
+    "launched_year": 1995,
+    "is_active": true
+  },
+  {
+    "title": "Annapurna Scheme",
+    "title_hi": "अन्नपूर्णा योजना",
+    "slug": "annapurna-scheme",
+    "description": "Provides 10 kg of food grains per month completely free of cost to destitute senior citizens aged 65 years and above who are not receiving pensions.",
+    "description_hi": "65 वर्ष या उससे अधिक आयु के ऐसे निराश्रित बुजुर्ग जिन्हें कोई पेंशन नहीं मिलती, उन्हें प्रति माह 10 किलो मुफ्त खाद्यान्न।",
+    "category": "elderly",
+    "tags": [
+      "free ration",
+      "elderly food",
+      "destitute",
+      "senior citizen",
+      "grain"
+    ],
+    "tags_hi": [
+      "अन्नपूर्णा",
+      "मुफ्त राशन",
+      "वरिष्ठ नागरिक",
+      "बुजुर्ग",
+      "खाद्यान्न"
+    ],
+    "eligibility": {
+      "min_age": 65,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": 50000,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "10 kg of wheat or rice per month completely free of charge through PDS ration shops",
+    "benefits_hi": "राशन की दुकान से प्रति माह 10 किलोग्राम गेहूं या चावल बिल्कुल मुफ्त",
+    "application_url": "https://nsap.nic.in",
+    "ministry": "Ministry of Rural Development",
+    "ministry_hi": "ग्रामीण विकास मंत्रालय",
+    "launched_year": 2000,
+    "is_active": true
+  },
+  {
+    "title": "Accessible India Campaign",
+    "title_hi": "सुगम्य भारत अभियान",
+    "slug": "accessible-india-campaign",
+    "description": "Nationwide flagship campaign to achieve universal accessibility for persons with disabilities in built environment, transport, and digital eco-system.",
+    "description_hi": "दिव्यांगजनों के लिए सरकारी भवनों, रेलवे स्टेशनों, बसों और वेबसाइटों को बाधारहित व सुगम्य बनाने का राष्ट्रीय अभियान।",
+    "category": "disability",
+    "tags": [
+      "disability",
+      "accessibility",
+      "ramps",
+      "barrier free",
+      "divyangjan"
+    ],
+    "tags_hi": [
+      "सुगम्य भारत",
+      "दिव्यांगजन",
+      "बाधारहित",
+      "रैंप",
+      "सुलभता"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Ramps, tactile paths, accessible toilets, audio-visual announcements, and accessible government portals",
+    "benefits_hi": "सार्वजनिक स्थलों पर रैंप, ब्रेल साइनेज, सुलभ शौचालय और लिफ्ट जैसी बाधारहित सुविधाएं",
+    "application_url": "https://accessibleindia.gov.in",
+    "ministry": "Ministry of Social Justice & Empowerment",
+    "ministry_hi": "सामाजिक न्याय एवं अधिकारिता मंत्रालय",
+    "launched_year": 2015,
+    "is_active": true
+  },
+  {
+    "title": "ADIP Scheme (Aids & Appliances)",
+    "title_hi": "एडीआईपी योजना (सहायक उपकरण सहायता)",
+    "slug": "adit-scheme-assistance-to-disabled-persons",
+    "description": "Provides modern, durable, and sophisticated aids and assistive devices free of cost to needy persons with disabilities to improve physical and social independence.",
+    "description_hi": "दिव्यांगजनों को शारीरिक संबल और आत्मनिर्भरता के लिए आधुनिक कृत्रिम अंग, मोटराइज्ड ट्राइसाइकिल, व्हीलचेयर व कान की मशीन मुफ्त देना।",
+    "category": "disability",
+    "tags": [
+      "divyang aids",
+      "wheelchair",
+      "tricycle",
+      "hearing aid",
+      "prosthetics"
+    ],
+    "tags_hi": [
+      "दिव्यांग उपकरण",
+      "व्हीलचेयर",
+      "ट्राइसाइकिल",
+      "श्रवण यंत्र",
+      "कृत्रिम अंग"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": 240000,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Free battery-operated tricycles, wheelchairs, hearing aids, smart canes, and robotic artificial limbs",
+    "benefits_hi": "मोटराइज्ड ट्राइसाइकिल, व्हीलचेयर, आधुनिक श्रवण यंत्र और कृत्रिम अंग 100% निःशुल्क",
+    "application_url": "https://adip.disabilityaffairs.gov.in",
+    "ministry": "Ministry of Social Justice & Empowerment",
+    "ministry_hi": "सामाजिक न्याय एवं अधिकारिता मंत्रालय",
+    "launched_year": 1981,
+    "is_active": true
+  },
+  {
+    "title": "National Fellowship for PwD",
+    "title_hi": "दिव्यांगजनों हेतु राष्ट्रीय फेलोशिप (NFPwD)",
+    "slug": "national-fellowship-for-persons-with-disabilities",
+    "description": "Provides financial assistance to students with disabilities to pursue higher education leading to M.Phil and Ph.D. degrees across recognized universities.",
+    "description_hi": "दिव्यांग छात्र-छात्राओं को एमफिल और पीएचडी जैसी उच्च शोध शिक्षा प्राप्त करने हेतु यूजीसी जेआरएफ स्तर की मासिक फेलोशिप।",
+    "category": "disability",
+    "tags": [
+      "fellowship",
+      "phd",
+      "pwd student",
+      "higher education",
+      "research"
+    ],
+    "tags_hi": [
+      "फेलोशिप",
+      "पीएचडी",
+      "दिव्यांग छात्र",
+      "उच्च शिक्षा",
+      "शोध"
+    ],
+    "eligibility": {
+      "min_age": 21,
+      "max_age": 40,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "student"
+      ],
+      "state": "all"
+    },
+    "benefits": "Monthly fellowship of Rs.31,000 to Rs.35,000 plus contingency grant and escort/reader allowance",
+    "benefits_hi": "प्रति माह ₹31,000 से ₹35,000 की फेलोशिप, आकस्मिक अनुदान और एस्कॉर्ट/रीडर भत्ता",
+    "application_url": "https://www.ugc.gov.in",
+    "ministry": "Ministry of Social Justice & Empowerment",
+    "ministry_hi": "सामाजिक न्याय एवं अधिकारिता मंत्रालय",
+    "launched_year": 2012,
+    "is_active": true
+  },
+  {
+    "title": "Unique Disability ID (UDID)",
+    "title_hi": "यूडीआईडी कार्ड (विशिष्ट दिव्यांगता पहचान)",
+    "slug": "unique-disability-id-card",
+    "description": "National database and single smart identification card for persons with disabilities to seamlessly avail all government welfare schemes and concessions nationwide.",
+    "description_hi": "दिव्यांगजनों के लिए देश भर में मान्य एकल विशिष्ट पहचान कार्ड, जिससे रेलवे रियायत और सरकारी योजनाओं का त्वरित लाभ मिल सके।",
+    "category": "disability",
+    "tags": [
+      "udid card",
+      "disability certificate",
+      "divyang",
+      "railway concession",
+      "id card"
+    ],
+    "tags_hi": [
+      "यूडीआईडी",
+      "दिव्यांग कार्ड",
+      "पहचान पत्र",
+      "रेलवे छूट",
+      "दिव्यांग प्रमाण पत्र"
+    ],
+    "eligibility": {
+      "min_age": 0,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Single smart card replacing multiple medical documents, enabling national travel concessions and welfare access",
+    "benefits_hi": "कागजी दस्तावेजों से मुक्ति, देश भर में मान्य एकल स्मार्ट कार्ड और यात्रा व शिक्षा में प्राथमिकता",
+    "application_url": "https://www.swavlambancard.gov.in",
+    "ministry": "Ministry of Social Justice & Empowerment",
+    "ministry_hi": "सामाजिक न्याय एवं अधिकारिता मंत्रालय",
+    "launched_year": 2016,
+    "is_active": true
+  },
+  {
+    "title": "National Career Service (NCS)",
+    "title_hi": "राष्ट्रीय करियर सेवा (NCS)",
+    "slug": "national-career-service",
+    "description": "Free digital employment platform linking job seekers, rural youth, women, and freshers with employers, career counsellors, and local skill courses.",
+    "description_hi": "ग्रामीण और शहरी बेरोजगार युवाओं को देश भर के नियोक्ताओं, जॉब फेयर और करियर काउंसलरों से जोड़ने वाला निःशुल्क मंच।",
+    "category": "employment",
+    "tags": [
+      "jobs",
+      "employment",
+      "career counselling",
+      "rural youth",
+      "job portal",
+      "rural area"
+    ],
+    "tags_hi": [
+      "नौकरी",
+      "रोजगार",
+      "करियर सेवा",
+      "ग्रामीण युवा",
+      "जॉब पोर्टल",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 14,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "unemployed",
+        "student"
+      ],
+      "state": "all"
+    },
+    "benefits": "Free access to millions of verified government and private jobs, free career counselling, and skill testing",
+    "benefits_hi": "लाखों सत्यापित सरकारी व निजी नौकरियों की जानकारी, मुफ्त करियर काउंसलिंग और ऑनलाइन स्किल टेस्ट",
+    "application_url": "https://www.ncs.gov.in",
+    "ministry": "Ministry of Labour & Employment",
+    "ministry_hi": "श्रम एवं रोजगार मंत्रालय",
+    "launched_year": 2015,
+    "is_active": true
+  },
+  {
+    "title": "PM MITRA Textile Parks",
+    "title_hi": "पीएम मित्र टेक्सटाइल पार्क योजना",
+    "slug": "pm-mega-integrated-textile-region-and-apparel",
+    "description": "Establishes 7 world-class mega textile parks with plug-and-play manufacturing infrastructure, generating 20 lakh direct and indirect rural/semi-urban jobs.",
+    "description_hi": "कपास उगाने वाले ग्रामीण क्षेत्रों के पास विश्वस्तरीय टेक्सटाइल पार्क स्थापित कर लाखों ग्रामीण युवाओं को स्थानीय रोजगार देना।",
+    "category": "employment",
+    "tags": [
+      "textile",
+      "rural jobs",
+      "manufacturing",
+      "cotton",
+      "garments",
+      "rural area"
+    ],
+    "tags_hi": [
+      "टेक्सटाइल",
+      "ग्रामीण रोजगार",
+      "वस्त्र उद्योग",
+      "कपास",
+      "विनिर्माण",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [],
+      "state": "all"
+    },
+    "benefits": "Direct local employment for rural youth, women weavers, tailors, and massive boost to cotton farming",
+    "benefits_hi": "ग्रामीण युवक-युवतियों, बुनकरों और दर्जियों को स्थानीय स्तर पर स्थायी रोजगार और अच्छी मजदूरी",
+    "application_url": "https://texmin.nic.in",
+    "ministry": "Ministry of Textiles",
+    "ministry_hi": "कपड़ा मंत्रालय",
+    "launched_year": 2021,
+    "is_active": true
+  },
+  {
+    "title": "Pradhan Mantri Kaushal Kendra (PMKK)",
+    "title_hi": "प्रधानमंत्री कौशल केंद्र (PMKK)",
+    "slug": "pradhan-mantri-kaushal-kendra",
+    "description": "State-of-the-art model training centres established in every rural and urban district to deliver aspirational industry-driven skill development.",
+    "description_hi": "देश के प्रत्येक जिले में स्थापित अत्याधुनिक मॉडल प्रशिक्षण केंद्र जहां ग्रामीण युवाओं को उद्योग-आधारित कौशल सिखाया जाता है।",
+    "category": "youth",
+    "tags": [
+      "skill development",
+      "vocational training",
+      "district centre",
+      "rural youth",
+      "pmkk",
+      "rural area"
+    ],
+    "tags_hi": [
+      "कौशल केंद्र",
+      "व्यावसायिक प्रशिक्षण",
+      "जिला केंद्र",
+      "ग्रामीण युवा",
+      "हुनर",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 15,
+      "max_age": 35,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "unemployed",
+        "student"
+      ],
+      "state": "all"
+    },
+    "benefits": "Free certified training in healthcare, IT, agriculture, automotive, electronics with placement support",
+    "benefits_hi": "स्वास्थ्य, आईटी, कृषि, ऑटोमोबाइल, इलेक्ट्रॉनिक्स में निःशुल्क प्रशिक्षण और रोजगार सहायता",
+    "application_url": "https://www.nsdcindia.org",
+    "ministry": "Ministry of Skill Development & Entrepreneurship",
+    "ministry_hi": "कौशल विकास एवं उद्यमिता मंत्रालय",
+    "launched_year": 2016,
+    "is_active": true
+  },
+  {
+    "title": "Yuva Sahakar Scheme",
+    "title_hi": "युवा सहकार योजना",
+    "slug": "yuva-sahakar-scheme",
+    "description": "Encourages young rural entrepreneurs and cooperatives to venture into innovative cooperative business ventures with concessional funding.",
+    "description_hi": "ग्रामीण क्षेत्रों के युवा उद्यमियों को सहकारिता आधारित नए व्यवसाय व स्टार्टअप शुरू करने हेतु रियायती ऋण सहायता।",
+    "category": "youth",
+    "tags": [
+      "cooperative",
+      "rural youth",
+      "startup",
+      "concessional loan",
+      "entrepreneurship",
+      "rural area"
+    ],
+    "tags_hi": [
+      "सहकारिता",
+      "युवा सहकार",
+      "ग्रामीण युवा",
+      "स्टार्टअप",
+      "सस्ता ऋण",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 35,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "entrepreneur"
+      ],
+      "state": "all"
+    },
+    "benefits": "Up to 80% project cost funding (up to Rs.3 crore) with 2% interest concession for cooperatives with women/SC/ST members",
+    "benefits_hi": "परियोजना लागत का 80% तक ऋण (अधिकतम ₹3 करोड़) और ब्याज दर में 2% की विशेष छूट",
+    "application_url": "https://www.ncdc.in",
+    "ministry": "Ministry of Cooperation",
+    "ministry_hi": "सहकारिता मंत्रालय",
+    "launched_year": 2018,
+    "is_active": true
+  },
+  {
+    "title": "National Youth Corps (NYC)",
+    "title_hi": "राष्ट्रीय युवा कोर (NYC)",
+    "slug": "national-youth-corps",
+    "description": "Engages rural youth volunteers aged 18-29 to serve as change agents in nation-building, disaster relief, sports promotion, and awareness in villages.",
+    "description_hi": "ग्रामीण युवाओं को राष्ट्र निर्माण, आपदा प्रबंधन, साक्षरता और खेलकूद को गांवों में बढ़ावा देने हेतु स्वयंसेवक के रूप में जोड़ना।",
+    "category": "youth",
+    "tags": [
+      "youth volunteer",
+      "rural youth",
+      "nyks",
+      "nation building",
+      "stipend",
+      "rural area"
+    ],
+    "tags_hi": [
+      "युवा कोर",
+      "ग्रामीण स्वयंसेवक",
+      "नेहरू युवा केंद्र",
+      "मानदेय",
+      "युवा",
+      "ग्रामीण क्षेत्र"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 29,
+      "gender": "all",
+      "income_limit": null,
+      "caste": [
+        "general",
+        "obc",
+        "sc",
+        "st"
+      ],
+      "occupation": [
+        "youth"
+      ],
+      "state": "all"
+    },
+    "benefits": "Monthly honorarium of Rs.5,000 for up to 2 years, leadership training, and experience certificates",
+    "benefits_hi": "2 वर्षों तक ₹5,000 प्रति माह का मानदेय, नेतृत्व प्रशिक्षण और सरकारी सेवा प्रमाण पत्र",
+    "application_url": "https://nyks.nic.in",
+    "ministry": "Ministry of Youth Affairs & Sports",
+    "ministry_hi": "युवा कार्यक्रम एवं खेल मंत्रालय",
+    "launched_year": 2010,
+    "is_active": true
+  }
+]

@@ -1,0 +1,209 @@
+/* ══════════════════════════════════════════
+   FOOTER — Main footer, footer columns, links
+   ══════════════════════════════════════════ */
+footer { background: var(--navy); color: rgba(255,255,255,0.5); text-align: center; padding: 24px; font-size: 13px; margin-top: 60px; }
+footer strong { color: var(--saffron); }
+
+.footer-wrap {
+  background: #1e1b3a;
+  color: #fff;
+  padding: 48px 40px 24px;
+}
+
+.footer-grid {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr 1fr 1.2fr;
+  gap: 40px;
+  margin-bottom: 40px;
+}
+
+.footer-brand h2 {
+  font-size: 22px;
+  font-weight: 600;
+  color: #fff;
+  margin: 0 0 4px;
+}
+
+.footer-brand h2 span {
+  color: #4ade80;
+}
+
+.footer-brand .tagline {
+  font-size: 13px;
+  color: #a89ec9;
+  margin: 0 0 16px;
+  line-height: 1.5;
+}
+
+.footer-brand .powered {
+  font-size: 12px;
+  color: #a89ec9;
+  margin: 0 0 8px;
+}
+
+.footer-brand .org {
+  font-size: 12px;
+  color: #c4bde0;
+  line-height: 1.7;
+  margin: 0 0 16px;
+}
+
+.social-btn {
+  display: inline-block;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  color: #fff;
+  font-size: 12px;
+  padding: 7px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  background: transparent;
+  text-decoration: none;
+  transition: background 0.25s ease, transform 0.2s ease;
+}
+.social-btn:hover { background: rgba(255,255,255,0.1); transform: translateY(-2px); }
+
+.footer-col h3 {
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  margin: 0 0 16px;
+}
+
+.footer-col ul {
+  list-style: none;
+}
+
+.footer-col ul li {
+  margin-bottom: 10px;
+}
+
+.footer-col ul li a {
+  color: #a89ec9;
+  text-decoration: none;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: color 0.2s ease, gap 0.2s ease;
+}
+
+.footer-col ul li a:hover {
+  color: #fff;
+  gap: 9px;
+}
+
+.footer-col ul li a::before {
+  content: "›";
+  font-size: 16px;
+  color: #a89ec9;
+}
+
+.useful-links-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+}
+
+.link-badge {
+  background: #fff;
+  border-radius: 6px;
+  padding: 6px 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  color: #333;
+  font-weight: 500;
+  height: 40px;
+  text-align: center;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.link-badge:hover { transform: translateY(-2px); box-shadow: 0 4px 10px rgba(0,0,0,0.2); }
+
+.link-badge.flag { color: #138808; }
+.link-badge.blue { color: #1a56db; }
+.link-badge.gov  { color: #d4380d; }
+
+.contact-info {
+  font-size: 13px;
+  color: #c4bde0;
+  line-height: 1.7;
+  margin: 0 0 12px;
+}
+
+.contact-email {
+  font-size: 13px;
+  color: #7dd3fc;
+  text-decoration: underline;
+  margin: 0 0 8px;
+  word-break: break-word;
+  display: block;
+}
+
+.contact-phone {
+  font-size: 13px;
+  color: #c4bde0;
+}
+
+.footer-bottom {
+  border-top: 0.5px solid rgba(255, 255, 255, 0.12);
+  padding-top: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  color: #7a7295;
+}
+
+/* ── DARK MODE TOGGLE SWITCH ── */
+.dark-toggle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  background: #f0f0f5;
+  padding: 6px 12px;
+  border-radius: 20px;
+  transition: all 0.3s ease;
+}
+.dark-toggle:hover { transform: scale(1.04); }
+
+.dark-toggle i {
+  font-size: 14px;
+  color: #555;
+  transition: transform 0.4s ease;
+}
+.dark-toggle:hover i { transform: rotate(20deg); }
+
+.toggle-switch {
+  width: 36px;
+  height: 20px;
+  background: #ccc;
+  border-radius: 20px;
+  position: relative;
+  transition: background 0.3s ease;
+}
+
+.toggle-ball {
+  width: 14px;
+  height: 14px;
+  background: white;
+  border-radius: 50%;
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  transition: left 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+/* ── FOOTER RESPONSIVE ── */
+@media (max-width: 768px) {
+  .footer-grid {
+    grid-template-columns: 1fr;
+  }
+  .footer-bottom {
+    flex-direction: column;
+    gap: 8px;
+    text-align: center;
+  }
+}
