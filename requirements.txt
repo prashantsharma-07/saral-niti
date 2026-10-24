@@ -1,0 +1,8 @@
+flask
+flask-cors
+pymongo[srv]
+python-dotenv
+groq
+pdfplumber
+requests
+gunicorn
